@@ -167,20 +167,6 @@
     "answer": 0,
     "explanation": "Le code d'honneur liste des principes de conduite et de discipline."
   },
-  //{
-  //  "id": "q013",
-   //"chapter": "Rappels de base",
-    //"difficulty": "facile",
-   // "question": "Quel chant est explicitement cite dans ce chapitre ?",
-    //"options": [
-     // "La Marseillaise",
-      //"Le Chant des Partisans",
-     // "Le Boudin",
-    //  "Sambre et Meuse"
-    //],
-    //"answer": 0,
-    //"explanation": "Une page du livret reproduit des couplets de La Marseillaise."
- // },
   {
     "id": "q014",
     "chapter": "Rappels de base",
