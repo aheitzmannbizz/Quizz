@@ -21,6 +21,20 @@ streamlit run app.py --server.address 0.0.0.0 --server.port 8501 --server.headle
 
 ## Utiliser le quiz sur iPhone (iOS)
 
+Option recommandee sans Cloudflare (1 commande):
+
+```powershell
+.\start_ios_local.ps1
+```
+
+Puis ouvrir sur iPhone (Safari), en etant sur le meme Wi-Fi:
+
+http://IP_DU_PC:8501
+
+Exemple chez vous actuellement:
+
+http://192.168.1.14:8501
+
 Etapes simples:
 
 1. Mettre le PC et l'iPhone sur le meme reseau Wi-Fi.
@@ -92,7 +106,7 @@ Remarques:
 Si Safari iPhone n'affiche pas le quiz:
 
 - Fermer/reouvrir Safari puis recharger la page.
-- Essayer le lien HTTPS Cloudflare (start_secure.ps1) plutot que l'IP locale.
+- Verifier que l'iPhone est sur le meme Wi-Fi que le PC (pas 4G/5G).
 - Sur iPhone: Reglages > Wi-Fi > votre reseau > desactiver temporairement "Limiter le suivi de l'adresse IP".
 - Verifier que VPN/proxy est desactive sur PC et iPhone.
 - Verifier dans la fenetre Streamlit qu'il n'y a pas d'erreur au chargement.
@@ -112,3 +126,4 @@ Si Safari iPhone n'affiche pas le quiz:
 - data/questions_fr.json : banque de questions.
 - requirements.txt : dependances Python.
 - start_secure.ps1 : lancement en 1 commande (quiz + lien HTTPS Cloudflare).
+- start_ios_local.ps1 : lancement en 1 commande pour iPhone sur le meme Wi-Fi (sans Cloudflare).
