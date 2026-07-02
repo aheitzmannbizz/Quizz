@@ -4,6 +4,7 @@ import random
 from pathlib import Path
 
 import streamlit as st
+import streamlit.components.v1 as components
 
 
 QUESTIONS_PATH = Path("data/questions_fr.json")
@@ -316,6 +317,31 @@ def start_quiz(bank: list[dict], chapters: list[str], levels: list[str], amount:
     quiz = prepare_quiz(bank, chapters, levels, amount, only_grades=only_grades)
     reset_state()
     st.session_state.quiz = quiz
+    st.session_state.collapse_sidebar_once = True
+
+
+def close_sidebar_once_if_needed() -> None:
+    if not st.session_state.get("collapse_sidebar_once", False):
+        return
+
+    # Close only when currently open (avoids toggling it open by mistake).
+    components.html(
+        """
+        <script>
+        const doc = window.parent.document;
+        const btn = doc.querySelector('[data-testid="stSidebarCollapseButton"] button');
+        if (btn) {
+          const label = (btn.getAttribute('aria-label') || '').toLowerCase();
+          if (label.includes('close') || label.includes('fermer')) {
+            btn.click();
+          }
+        }
+        </script>
+        """,
+        height=0,
+        width=0,
+    )
+    st.session_state.collapse_sidebar_once = False
 
 
 st.set_page_config(page_title="Quiz Memento Militaire", layout="centered", initial_sidebar_state="collapsed")
@@ -323,6 +349,8 @@ inject_theme()
 
 if "quiz" not in st.session_state:
     reset_state()
+if "collapse_sidebar_once" not in st.session_state:
+    st.session_state.collapse_sidebar_once = False
 
 bank = load_question_bank()
 all_chapters = sorted({q["chapter"] for q in bank})
@@ -381,6 +409,9 @@ with st.sidebar:
             question_count,
             only_grades=only_grade_questions,
         )
+        st.rerun()
+
+close_sidebar_once_if_needed()
 
 if not st.session_state.quiz:
     render_hero(total_questions=question_count, done_questions=0, score=0)
