@@ -146,6 +146,8 @@ def inject_theme() -> None:
             border-radius: 8px;
             font-weight: 700;
             letter-spacing: 0.01em;
+            min-height: 50px;
+            font-size: 1.02rem;
         }
 
         .stButton > button:hover {
@@ -166,7 +168,30 @@ def inject_theme() -> None:
             color: #ecf1e7;
         }
 
+        div[data-testid="stRadio"] > div[role="radiogroup"] > label {
+            border: 1px solid rgba(36, 46, 31, 0.24);
+            border-radius: 10px;
+            padding: 0.62rem 0.72rem;
+            margin-bottom: 0.5rem;
+            background: rgba(255, 255, 255, 0.58);
+        }
+
+        div[data-testid="stRadio"] > div[role="radiogroup"] > label:hover {
+            border-color: #3f4f36;
+            background: rgba(255, 255, 255, 0.78);
+        }
+
+        [data-testid="stSidebarCollapseButton"] button {
+            min-height: 42px;
+            min-width: 42px;
+        }
+
         @media (max-width: 760px) {
+            .block-container {
+                padding-top: 0.8rem;
+                padding-left: 0.8rem;
+                padding-right: 0.8rem;
+            }
             .status-strip {
                 grid-template-columns: 1fr;
             }
@@ -175,6 +200,12 @@ def inject_theme() -> None:
             }
             .question-text {
                 font-size: 1rem;
+            }
+            .hero-kicker {
+                font-size: 0.68rem;
+            }
+            .status-value {
+                font-size: 1.05rem;
             }
         }
         </style>
@@ -287,7 +318,7 @@ def start_quiz(bank: list[dict], chapters: list[str], levels: list[str], amount:
     st.session_state.quiz = quiz
 
 
-st.set_page_config(page_title="Quiz Memento Militaire", layout="centered")
+st.set_page_config(page_title="Quiz Memento Militaire", layout="centered", initial_sidebar_state="collapsed")
 inject_theme()
 
 if "quiz" not in st.session_state:
@@ -353,6 +384,7 @@ with st.sidebar:
 
 if not st.session_state.quiz:
     render_hero(total_questions=question_count, done_questions=0, score=0)
+    st.caption("Sur mobile: ouvrez le menu en haut a gauche pour la configuration du quiz.")
     st.info("Choisissez vos options puis cliquez sur 'Demarrer un nouveau quiz'.")
     st.stop()
 
@@ -410,23 +442,20 @@ st.session_state.chosen_option = st.radio(
     key=f"choice_{q['id']}_{idx}",
 )
 
-col1, col2 = st.columns([1, 1])
-
-with col1:
-    if st.button("Valider", use_container_width=True, disabled=st.session_state.locked):
-        correct = st.session_state.chosen_option == q["answer"]
-        if correct:
-            st.session_state.score += 1
-        st.session_state.locked = True
-        st.session_state.history.append(
-            {
-                "question": q["question"],
-                "correct": correct,
-                "user_answer": q["options"][st.session_state.chosen_option],
-                "good_answer": q["options"][q["answer"]],
-                "explanation": q["explanation"],
-            }
-        )
+if st.button("Valider", use_container_width=True, disabled=st.session_state.locked):
+    correct = st.session_state.chosen_option == q["answer"]
+    if correct:
+        st.session_state.score += 1
+    st.session_state.locked = True
+    st.session_state.history.append(
+        {
+            "question": q["question"],
+            "correct": correct,
+            "user_answer": q["options"][st.session_state.chosen_option],
+            "good_answer": q["options"][q["answer"]],
+            "explanation": q["explanation"],
+        }
+    )
 
 if st.session_state.locked:
     last = st.session_state.history[-1]
@@ -443,8 +472,7 @@ if st.session_state.locked:
     )
     st.info(f"Explication detaillee: {detailed}")
 
-    with col2:
-        if st.button("Question suivante", use_container_width=True):
-            st.session_state.index += 1
-            st.session_state.locked = False
-            st.rerun()
+    if st.button("Question suivante", use_container_width=True):
+        st.session_state.index += 1
+        st.session_state.locked = False
+        st.rerun()
