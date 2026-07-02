@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "q001",
+    "chapter": "Organisation",
+    "difficulty": "facile",
+    "question": "Quel est le titre du livret utilise pour ce quiz ?",
+    "options": [
+      "Memento Militaire du rang",
+      "Guide du reserviste naval",
+      "Manuel de topographie alpine",
+      "Carnet de campagne IST-R"
+    ],
+    "answer": 0,
+    "explanation": "La couverture mentionne clairement 'Memento Militaire du rang'."
+  },
+  {
+    "id": "q002",
+    "chapter": "Organisation",
+    "difficulty": "facile",
+    "question": "Dans le sommaire, quel chapitre apparait en premier ?",
+    "options": [
+      "Rappels de base",
+      "Organisation",
+      "Topographie",
+      "PSC1/SC1"
+    ],
+    "answer": 1,
+    "explanation": "Le sommaire commence par le chapitre I: Organisation."
+  },
+  {
+    "id": "q003",
+    "chapter": "Organisation",
+    "difficulty": "moyen",
+    "question": "Quelle mission generale de l'Armee de terre est mise en avant ?",
+    "options": [
+      "Proteger la nation et agir en operation",
+      "Former uniquement les officiers",
+      "Assurer seulement la police routiere",
+      "Gerer les hopitaux civils"
+    ],
+    "answer": 0,
+    "explanation": "La mission generale citee concerne la protection de la nation et l'engagement operationnel."
+  },
+  {
+    "id": "q004",
+    "chapter": "Organisation",
+    "difficulty": "moyen",
+    "question": "Le CCTR-R correspond principalement a quoi ?",
+    "options": [
+      "Compagnie de Combat Terrestre de Reserve",
+      "Centre de Controle des Transmissions Regionales",
+      "Commandement Central du Tir Reglementaire",
+      "Corps Civil de Transport Routier"
+    ],
+    "answer": 0,
+    "explanation": "Le livret developpe l'organisation d'une Compagnie de Combat Terrestre de Reserve."
+  },
+  {
+    "id": "q005",
+    "chapter": "Organisation",
+    "difficulty": "moyen",
+    "question": "Que represente la chaine de commandement dans l'organisation ?",
+    "options": [
+      "Un schema des responsabilites et des niveaux de decision",
+      "Une liste de sanctions",
+      "Une carte topographique",
+      "Un tableau de munitions"
+    ],
+    "answer": 0,
+    "explanation": "La chaine de commandement decrit qui commande et qui rend compte."
+  },
+  {
+    "id": "q006",
+    "chapter": "Organisation",
+    "difficulty": "difficile",
+    "question": "Quel est le role principal d'un etat-major dans une unite ?",
+    "options": [
+      "Planifier, coordonner et suivre l'action",
+      "Distribuer uniquement les rations",
+      "Regler le trafic routier civil",
+      "Faire l'entretien des vehicules prives"
+    ],
+    "answer": 0,
+    "explanation": "L'etat-major soutient le commandement dans la planification et la coordination."
+  },
+  {
+    "id": "q007",
+    "chapter": "Organisation",
+    "difficulty": "facile",
+    "question": "Le sommaire annonce combien de grands chapitres numerotes ?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Le sommaire visible va de I a IX, soit 9 chapitres."
+  },
+  {
+    "id": "q008",
+    "chapter": "Rappels de base",
+    "difficulty": "facile",
+    "question": "Dans les rappels de base, quelle notion est presentee avec un tableau de grades ?",
+    "options": [
+      "Grades et appellations",
+      "Vitesses de progression",
+      "Secours d'urgence",
+      "Azimuts magnetiques"
+    ],
+    "answer": 0,
+    "explanation": "Le chapitre II contient un tableau des grades et des appellations."
+  },
+  {
+    "id": "q009",
+    "chapter": "Rappels de base",
+    "difficulty": "moyen",
+    "question": "A quoi sert principalement l'appellation reglementaire d'un grade ?",
+    "options": [
+      "A marquer le respect et la clarte de la relation hierarchique",
+      "A choisir une tenue sportive",
+      "A noter la meteo",
+      "A classer les vehicules"
+    ],
+    "answer": 0,
+    "explanation": "L'appellation reglementaire structure la relation hierarchique et le respect."
+  },
+  {
+    "id": "q010",
+    "chapter": "Rappels de base",
+    "difficulty": "moyen",
+    "question": "Le tableau des ordres preparatoires/executoires sert surtout a quoi ?",
+    "options": [
+      "Uniformiser les commandements donnes a la troupe",
+      "Definir les points de secours",
+      "Calculer la distance d'un objectif",
+      "Reparer les postes radio"
+    ],
+    "answer": 0,
+    "explanation": "Ce tableau normalise les ordres pour garantir une execution claire."
+  },
+  {
+    "id": "q011",
+    "chapter": "Rappels de base",
+    "difficulty": "facile",
+    "question": "La presentation devant autorite met en avant quel triptyque ?",
+    "options": [
+      "Grade + nom, ecole militaire de reserve, compagnie",
+      "Nom + prenom + adresse",
+      "Age + taille + groupe sanguin",
+      "Regiment + vehicule + arme"
+    ],
+    "answer": 0,
+    "explanation": "La formulation de presentation suit la structure vue sur la page des grades."
+  },
+  {
+    "id": "q012",
+    "chapter": "Rappels de base",
+    "difficulty": "moyen",
+    "question": "Le code d'honneur du soldat insiste d'abord sur quelle attitude ?",
+    "options": [
+      "Dignite, discipline et sens du devoir",
+      "Improvisation individuelle",
+      "Priorite au confort personnel",
+      "Neutralite en operation"
+    ],
+    "answer": 0,
+    "explanation": "Le code d'honneur liste des principes de conduite et de discipline."
+  },
+  {
+    "id": "q013",
+    "chapter": "Rappels de base",
+    "difficulty": "facile",
+    "question": "Quel chant est explicitement cite dans ce chapitre ?",
+    "options": [
+      "La Marseillaise",
+      "Le Chant des Partisans",
+      "Le Boudin",
+      "Sambre et Meuse"
+    ],
+    "answer": 0,
+    "explanation": "Une page du livret reproduit des couplets de La Marseillaise."
+  },
+  {
+    "id": "q014",
+    "chapter": "Rappels de base",
+    "difficulty": "moyen",
+    "question": "A quoi sert la section sur les chants de compagnie ?",
+    "options": [
+      "A renforcer la cohesion et les traditions de l'unite",
+      "A noter les heures de garde",
+      "A regler les tirs de nuit",
+      "A coder les messages radio"
+    ],
+    "answer": 0,
+    "explanation": "Les chants de section/compagnie contribuent a l'esprit de corps."
+  },
+  {
+    "id": "q015",
+    "chapter": "Rappels de base",
+    "difficulty": "difficile",
+    "question": "Dans la vie de section, pourquoi les rites et traditions comptent-ils ?",
+    "options": [
+      "Ils transmettent les reperes communs et la culture d'unite",
+      "Ils remplacent la formation technique",
+      "Ils annulent la hierarchie",
+      "Ils servent uniquement aux ceremonies civiles"
+    ],
+    "answer": 0,
+    "explanation": "Le livret rattache clairement tradition, cohesion et identite collective."
+  },
+  {
+    "id": "q016",
+    "chapter": "Renseignements et compte-rendus",
+    "difficulty": "facile",
+    "question": "Le renseignement, dans ce contexte, designe surtout quoi ?",
+    "options": [
+      "L'information utile a la decision du chef",
+      "Le carnet medical",
+      "Le livret de solde",
+      "Le registre de maintenance"
+    ],
+    "answer": 0,
+    "explanation": "Le chapitre III traite des informations operationnelles pour l'action."
+  },
+  {
+    "id": "q017",
+    "chapter": "Renseignements et compte-rendus",
+    "difficulty": "moyen",
+    "question": "Quel enchainement est le plus logique pour transmettre un compte-rendu efficace ?",
+    "options": [
+      "Observer, verifier, puis transmettre clairement",
+      "Transmettre d'abord, observer ensuite",
+      "Attendre la fin de mission",
+      "Noter puis oublier"
+    ],
+    "answer": 0,
+    "explanation": "Un compte-rendu fiable repose d'abord sur une observation verifiee."
+  },
+  {
+    "id": "q018",
+    "chapter": "Renseignements et compte-rendus",
+    "difficulty": "moyen",
+    "question": "Pourquoi structurer un compte-rendu avec des rubriques ?",
+    "options": [
+      "Pour gagner en precision et limiter les oublis",
+      "Pour rallonger le message",
+      "Pour eviter de parler au chef",
+      "Pour remplacer la liaison radio"
+    ],
+    "answer": 0,
+    "explanation": "La structuration permet un message court, complet et exploitable."
+  },
+  {
+    "id": "q019",
+    "chapter": "Renseignements et compte-rendus",
+    "difficulty": "difficile",
+    "question": "Quel risque principal apparait quand un compte-rendu est ambigu ?",
+    "options": [
+      "Une mauvaise appreciation de situation par le commandement",
+      "Une panne de batterie",
+      "Une perte de grade immediate",
+      "Un changement automatique d'itineraire"
+    ],
+    "answer": 0,
+    "explanation": "L'ambiguite degrade la comprehension et donc la decision tactique."
+  },
+  {
+    "id": "q020",
+    "chapter": "CTT",
+    "difficulty": "facile",
+    "question": "Que signifie CTT dans le livret ?",
+    "options": [
+      "Combat Terrestre",
+      "Controle Technique du Tir",
+      "Centre Tactique Territorial",
+      "Carte de Transmission Terrestre"
+    ],
+    "answer": 0,
+    "explanation": "Le chapitre IV est intitule 'Concept de Combat Terrestre (CTT)'."
+  },
+  {
+    "id": "q021",
+    "chapter": "CTT",
+    "difficulty": "moyen",
+    "question": "A quoi servent les actes elementaires individuels du combattant ?",
+    "options": [
+      "A executer des actions de base correctement sous stress",
+      "A remplacer la chaine de commandement",
+      "A memoriser les grades",
+      "A noter les frequences radio"
+    ],
+    "answer": 0,
+    "explanation": "Ces actes sont les fondamentaux techniques du combattant."
+  },
+  {
+    "id": "q022",
+    "chapter": "CTT",
+    "difficulty": "moyen",
+    "question": "Le principe de progression en trinome vise surtout a quoi ?",
+    "options": [
+      "Mutualiser observation, protection et mouvement",
+      "Avancer en ligne sans couverture",
+      "Separer totalement les roles",
+      "Reduire les communications"
+    ],
+    "answer": 0,
+    "explanation": "Le trinome permet de combiner progression et securite."
+  },
+  {
+    "id": "q023",
+    "chapter": "CTT",
+    "difficulty": "facile",
+    "question": "Quel est l'objectif principal du camouflage ?",
+    "options": [
+      "Reduire detection visuelle, sonore et thermique",
+      "Augmenter la vitesse de tir",
+      "Ameliorer la reception GPS",
+      "Remplacer la couverture"
+    ],
+    "answer": 0,
+    "explanation": "Le camouflage diminue la probabilite d'etre repere."
+  },
+  {
+    "id": "q024",
+    "chapter": "CTT",
+    "difficulty": "moyen",
+    "question": "Dans les facteurs de camouflage, FORDECOLOR rappelle surtout quoi ?",
+    "options": [
+      "Forme, ombre, mouvement, couleur, bruit, lumiere...",
+      "Frequence, onde, relais",
+      "Formation, ordre, discipline",
+      "Force, rayon, elevation"
+    ],
+    "answer": 0,
+    "explanation": "L'acronyme regroupe des facteurs qui trahissent la presence."
+  },
+  {
+    "id": "q025",
+    "chapter": "CTT",
+    "difficulty": "moyen",
+    "question": "Pourquoi apprendre l'appreciation des distances ?",
+    "options": [
+      "Adapter tir, deplacement et observation",
+      "Choisir un grade",
+      "Calculer la solde",
+      "Eviter les transmissions"
+    ],
+    "answer": 0,
+    "explanation": "Distance et perception conditionnent l'action tactique."
+  },
+  {
+    "id": "q026",
+    "chapter": "CTT",
+    "difficulty": "difficile",
+    "question": "Quel role joue la liaison dans l'action d'un trinome ?",
+    "options": [
+      "Maintenir coordination et synchronisation",
+      "Annuler les ordres preparatoires",
+      "Remplacer la reconnaissance",
+      "Eviter le compte-rendu"
+    ],
+    "answer": 0,
+    "explanation": "Sans liaison, la coordination tactique se degrade rapidement."
+  },
+  {
+    "id": "q027",
+    "chapter": "CTT",
+    "difficulty": "moyen",
+    "question": "Les signaux gestes et attitudes servent principalement a quoi ?",
+    "options": [
+      "Communiquer discretement sans parole",
+      "Donner les ordres administratifs",
+      "Renseigner la comptabilite",
+      "Identifier les grades"
+    ],
+    "answer": 0,
+    "explanation": "Le livret presente une planche de communication gestuelle."
+  },
+  {
+    "id": "q028",
+    "chapter": "CTT",
+    "difficulty": "facile",
+    "question": "L'orientation de base dans le chapitre CTT s'appuie notamment sur quoi ?",
+    "options": [
+      "Soleil, lune et reperes du terrain",
+      "Seulement un smartphone",
+      "Uniquement la radio",
+      "La couleur des uniformes"
+    ],
+    "answer": 0,
+    "explanation": "Les pages d'orientation montrent soleil, lune et reperes naturels."
+  },
+  {
+    "id": "q029",
+    "chapter": "CTT",
+    "difficulty": "moyen",
+    "question": "Que veut dire 'se camoufler, s'adapter a l'ambiance' ?",
+    "options": [
+      "Utiliser terrain et vegetaux en coherence avec l'environnement",
+      "Porter plus d'equipement",
+      "Rester debout en silhouette",
+      "Allumer une lampe pour se reperer"
+    ],
+    "answer": 0,
+    "explanation": "Le camouflage efficace depend de l'environnement immediat."
+  },
+  {
+    "id": "q030",
+    "chapter": "CTT",
+    "difficulty": "difficile",
+    "question": "En progression tactique, quelle erreur augmente fortement la vulnerabilite ?",
+    "options": [
+      "Absence de couverture mutuelle",
+      "Compte-rendu trop court",
+      "Usage d'un ordre preparatoire",
+      "Verification d'arme"
+    ],
+    "answer": 0,
+    "explanation": "Sans couverture mutuelle, le trinome s'expose a l'adversaire."
+  },
+  {
+    "id": "q031",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "Que signifie IST-C dans le livret ?",
+    "options": [
+      "Instruction sur le Tir de Combat",
+      "Index de Securite des Transmissions",
+      "Inspection du Service Technique",
+      "Instruction du Secours Tactique Civil"
+    ],
+    "answer": 0,
+    "explanation": "Le chapitre V est intitule 'Instruction sur le Tir de Combat (ISTC)'."
+  },
+  {
+    "id": "q032",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "Combien de regles de securite sont rappelees au debut du chapitre IST-C ?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "La page d'introduction presente 4 regles de securite."
+  },
+  {
+    "id": "q033",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "L'acronyme CEVITAL concerne quoi ?",
+    "options": [
+      "Le controle du tir",
+      "Le secours en zone urbaine",
+      "Le camouflage thermique",
+      "La navigation GPS"
+    ],
+    "answer": 0,
+    "explanation": "CEVITAL apparait comme methode de controle du tir."
+  },
+  {
+    "id": "q034",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Que rappelle en priorite une regle de securite arme ?",
+    "options": [
+      "Ne jamais diriger le canon vers une zone non voulue",
+      "Toujours tirer en mouvement",
+      "Poser l'arme sans verification",
+      "Charger avant tout deplacement"
+    ],
+    "answer": 0,
+    "explanation": "Le controle de direction et de securite est une base absolue."
+  },
+  {
+    "id": "q035",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Quel calibre est associe au FAMAS dans le tableau technique ?",
+    "options": [
+      "5,56 mm",
+      "7,62 mm",
+      "9 mm",
+      "12,7 mm"
+    ],
+    "answer": 0,
+    "explanation": "La fiche technique FAMAS mentionne le calibre 5,56 mm."
+  },
+  {
+    "id": "q036",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "Pourquoi apprendre le montage/demontage de l'arme ?",
+    "options": [
+      "Pour la securite, l'entretien et l'autonomie du tireur",
+      "Pour augmenter le grade",
+      "Pour eviter la liaison radio",
+      "Pour remplacer l'instruction tactique"
+    ],
+    "answer": 0,
+    "explanation": "Le livret propose des planches detaillees de montage/demontage."
+  },
+  {
+    "id": "q037",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "Quel comportement est correct en cas d'incident de tir ?",
+    "options": [
+      "Appliquer la procedure reglementaire et garder la securite",
+      "Regarder le canon de face",
+      "Jeter l'arme",
+      "Partir sans signaler"
+    ],
+    "answer": 0,
+    "explanation": "Les incidents se traitent avec procedure stricte et maitrise de la securite."
+  },
+  {
+    "id": "q038",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Que designe FAMAS dans le livret ?",
+    "options": [
+      "Fusil d'Assaut de la Manufacture d'Armes de Saint-Etienne",
+      "Formation avancee de maniere autonome",
+      "Fiche administrative du materiel arme",
+      "Fusil anti-materiel semi-auto"
+    ],
+    "answer": 0,
+    "explanation": "Le developpement de l'acronyme est visible sur la page technique."
+  },
+  {
+    "id": "q039",
+    "chapter": "Transmission",
+    "difficulty": "moyen",
+    "question": "La partie transmission traite surtout de quoi ?",
+    "options": [
+      "Frequences, postes radio et procedure de liaison",
+      "Ordres de tir de precision",
+      "Grades de la marine",
+      "Maintenance du FAMAS"
+    ],
+    "answer": 0,
+    "explanation": "Le chapitre VIII presente tableaux de frequences et usage radio."
+  },
+  {
+    "id": "q040",
+    "chapter": "Transmission",
+    "difficulty": "facile",
+    "question": "Quel est le but principal d'une procedure radio standardisee ?",
+    "options": [
+      "Eviter les malentendus et accelerer la transmission",
+      "Allonger la conversation",
+      "Contourner la chaine de commandement",
+      "Eviter le compte-rendu"
+    ],
+    "answer": 0,
+    "explanation": "La standardisation rend les messages clairs et exploitables."
+  },
+  {
+    "id": "q041",
+    "chapter": "Transmission",
+    "difficulty": "moyen",
+    "question": "Pourquoi limiter un message radio a l'essentiel ?",
+    "options": [
+      "Reduire le temps d'occupation de la frequence",
+      "Montrer son niveau technique",
+      "Eviter l'usage du carnet",
+      "Remplacer les ordres"
+    ],
+    "answer": 0,
+    "explanation": "Un message court occupe moins la frequence et reste plus net."
+  },
+  {
+    "id": "q042",
+    "chapter": "Transmission",
+    "difficulty": "difficile",
+    "question": "Quel risque tactique apparait avec une discipline radio faible ?",
+    "options": [
+      "Perte de coordination et confusion des ordres",
+      "Amelioration de la discr\u00e9tion",
+      "Moins de besoins en batteries",
+      "Augmentation de la precision du tir"
+    ],
+    "answer": 0,
+    "explanation": "Une mauvaise discipline radio nuit directement a la coordination."
+  },
+  {
+    "id": "q043",
+    "chapter": "PSC1/SC1",
+    "difficulty": "facile",
+    "question": "La partie PSC1/SC1 est surtout liee a quel objectif ?",
+    "options": [
+      "Secourir rapidement et correctement un blesse",
+      "Classer les equipements",
+      "Mesurer les distances",
+      "Encoder la radio"
+    ],
+    "answer": 0,
+    "explanation": "PSC1/SC1 concerne les gestes de secours et leur sequence."
+  },
+  {
+    "id": "q044",
+    "chapter": "PSC1/SC1",
+    "difficulty": "moyen",
+    "question": "Quelle est la priorite dans une intervention de secours tactique ?",
+    "options": [
+      "Securiser, evaluer, puis agir selon procedure",
+      "Agir sans evaluation",
+      "Deplacer le blesse immediatement",
+      "Attendre sans alerter"
+    ],
+    "answer": 0,
+    "explanation": "La logique est securite de la zone, evaluation, puis action adaptee."
+  },
+  {
+    "id": "q045",
+    "chapter": "PSC1/SC1",
+    "difficulty": "moyen",
+    "question": "Pourquoi memoriser des acronymes de secours (ex: SAVE) ?",
+    "options": [
+      "Pour suivre un ordre d'action fiable sous stress",
+      "Pour remplacer la formation",
+      "Pour coder des messages secrets",
+      "Pour classer les munitions"
+    ],
+    "answer": 0,
+    "explanation": "Les acronymes servent de guide mental rapide en situation degradee."
+  },
+  {
+    "id": "q046",
+    "chapter": "NRBC",
+    "difficulty": "facile",
+    "question": "Que couvre principalement la partie NRBC ?",
+    "options": [
+      "Les risques nucleaires, radiologiques, biologiques et chimiques",
+      "Le reglage des visees optiques",
+      "Les traditions de compagnie",
+      "La topographie de nuit"
+    ],
+    "answer": 0,
+    "explanation": "NRBC traite des menaces et protections associees."
+  },
+  {
+    "id": "q047",
+    "chapter": "NRBC",
+    "difficulty": "moyen",
+    "question": "Face a une menace NRBC, quelle logique est correcte ?",
+    "options": [
+      "Alerter, proteger, decontaminer selon consignes",
+      "Ignorer et poursuivre normalement",
+      "Retirer les protections",
+      "Attendre sans informer"
+    ],
+    "answer": 0,
+    "explanation": "La conduite NRBC repose sur l'alerte, la protection et la decontamination."
+  },
+  {
+    "id": "q048",
+    "chapter": "Topographie",
+    "difficulty": "facile",
+    "question": "Quel outil est explicitement presente dans le chapitre topographie ?",
+    "options": [
+      "La boussole",
+      "Le chronographe",
+      "Le viseur reflexe",
+      "Le detecteur chimique"
+    ],
+    "answer": 0,
+    "explanation": "Une page montre la boussole et ses usages de base."
+  },
+  {
+    "id": "q049",
+    "chapter": "Topographie",
+    "difficulty": "moyen",
+    "question": "A quoi sert un azimut en topographie ?",
+    "options": [
+      "Donner une direction de deplacement",
+      "Mesurer la masse d'un sac",
+      "Identifier un grade",
+      "Regler la cadence de tir"
+    ],
+    "answer": 0,
+    "explanation": "L'azimut est une direction exprimee en angle."
+  },
+  {
+    "id": "q050",
+    "chapter": "Topographie",
+    "difficulty": "moyen",
+    "question": "Quel est l'interet principal de lire correctement une carte ?",
+    "options": [
+      "Choisir un itineraire adapte au terrain",
+      "Connaitre les frequences radio",
+      "Verifier le montage d'arme",
+      "Definir les appellations"
+    ],
+    "answer": 0,
+    "explanation": "La lecture de carte sert a orienter la manoeuvre sur le terrain."
+  },
+  {
+    "id": "gq001",
+    "chapter": "Grades",
+    "difficulty": "difficile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/Mar%C3%A9chal%20de%20France.jpg?h=d1cb525d&itok=afwqag5F",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Marechal de France",
+      "Sergent-chef",
+      "Lieutenant-colonel",
+      "Soldat de 1re classe"
+    ],
+    "answer": 0,
+    "explanation": "Reponse officielle (site Armee de Terre): Marechal de France."
+  },
+  {
+    "id": "gq002",
+    "chapter": "Grades",
+    "difficulty": "difficile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/G%C3%A9n%C3%A9ral%20d%27arm%C3%A9e.jpg?h=d1cb525d&itok=ImTHEWji",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Soldat",
+      "Soldat de 1re classe",
+      "Caporal-chef",
+      "General d'armee"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): General d'armee."
+  },
+  {
+    "id": "gq003",
+    "chapter": "Grades",
+    "difficulty": "difficile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/G%C3%A9n%C3%A9ral%20de%20corps%20d%27arm%C3%A9e.jpg?h=d1cb525d&itok=X2iQG4AZ",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Lieutenant-colonel",
+      "Lieutenant",
+      "General de corps d'armee",
+      "Soldat"
+    ],
+    "answer": 2,
+    "explanation": "Reponse officielle (site Armee de Terre): General de corps d'armee."
+  },
+  {
+    "id": "gq004",
+    "chapter": "Grades",
+    "difficulty": "difficile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/G%C3%A9n%C3%A9ral%20de%20division.jpg?h=d1cb525d&itok=4QXa9WI5",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Sous-lieutenant",
+      "Soldat",
+      "General de division",
+      "Sergent-chef"
+    ],
+    "answer": 2,
+    "explanation": "Reponse officielle (site Armee de Terre): General de division."
+  },
+  {
+    "id": "gq005",
+    "chapter": "Grades",
+    "difficulty": "difficile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/G%C3%A9n%C3%A9ral%20de%20brigade.jpg?h=d1cb525d&itok=ebBUi19D",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Capitaine",
+      "Lieutenant-colonel",
+      "Marechal de France",
+      "General de brigade"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): General de brigade."
+  },
+  {
+    "id": "gq006",
+    "chapter": "Grades",
+    "difficulty": "difficile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/colonel.jpg?h=d1cb525d&itok=9Iw6ROHc",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Caporal",
+      "Colonel",
+      "Aspirant",
+      "General de division"
+    ],
+    "answer": 1,
+    "explanation": "Reponse officielle (site Armee de Terre): Colonel."
+  },
+  {
+    "id": "gq007",
+    "chapter": "Grades",
+    "difficulty": "difficile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/lieutenant-colonel.jpg?h=d1cb525d&itok=dUp8vDTb",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "General d'armee",
+      "Adjudant-chef",
+      "Sergent-chef",
+      "Lieutenant-colonel"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Lieutenant-colonel."
+  },
+  {
+    "id": "gq008",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/commandant.jpg?h=d1cb525d&itok=dJ2Xwcjh",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Commandant",
+      "Marechal de France",
+      "Sergent-chef",
+      "Lieutenant-colonel"
+    ],
+    "answer": 0,
+    "explanation": "Reponse officielle (site Armee de Terre): Commandant."
+  },
+  {
+    "id": "gq009",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/capitaine.jpg?itok=wgxq7Dwa",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Aspirant",
+      "General de brigade",
+      "Capitaine",
+      "General de corps d'armee"
+    ],
+    "answer": 2,
+    "explanation": "Reponse officielle (site Armee de Terre): Capitaine."
+  },
+  {
+    "id": "gq010",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/lieutenant.jpg?itok=kyqfMV7s",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Marechal de France",
+      "Soldat",
+      "Adjudant",
+      "Lieutenant"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Lieutenant."
+  },
+  {
+    "id": "gq011",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Sous-lieutenant.jpg?itok=NFaCFU6t",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Capitaine",
+      "Lieutenant",
+      "Adjudant-chef",
+      "Sous-lieutenant"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Sous-lieutenant."
+  },
+  {
+    "id": "gq012",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Aspirant.jpg?itok=nQqzeUuu",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Caporal",
+      "Caporal-chef de 1re classe",
+      "Aspirant",
+      "Sergent-chef"
+    ],
+    "answer": 2,
+    "explanation": "Reponse officielle (site Armee de Terre): Aspirant."
+  },
+  {
+    "id": "gq013",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Major.jpg?itok=ahsAa3_i",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Colonel",
+      "General de division",
+      "Major",
+      "Soldat de 1re classe"
+    ],
+    "answer": 2,
+    "explanation": "Reponse officielle (site Armee de Terre): Major."
+  },
+  {
+    "id": "gq014",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Adjudant-chef.jpg?itok=91LUUGOZ",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Marechal de France",
+      "Commandant",
+      "Capitaine",
+      "Adjudant-chef"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Adjudant-chef."
+  },
+  {
+    "id": "gq015",
+    "chapter": "Grades",
+    "difficulty": "moyen",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Adjudant.jpg?itok=qocj2Dty",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Major",
+      "Aspirant",
+      "Sous-lieutenant",
+      "Adjudant"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Adjudant."
+  },
+  {
+    "id": "gq016",
+    "chapter": "Grades",
+    "difficulty": "facile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Sergent-chef.jpg?itok=-mm8a2ZL",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Adjudant",
+      "General d'armee",
+      "Lieutenant-colonel",
+      "Sergent-chef"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Sergent-chef."
+  },
+  {
+    "id": "gq017",
+    "chapter": "Grades",
+    "difficulty": "facile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Sergent.jpg?itok=A8P8VyY8",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Lieutenant-colonel",
+      "Sous-lieutenant",
+      "Sergent",
+      "General de brigade"
+    ],
+    "answer": 2,
+    "explanation": "Reponse officielle (site Armee de Terre): Sergent."
+  },
+  {
+    "id": "gq018",
+    "chapter": "Grades",
+    "difficulty": "facile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Caporal-chef%20de%201re%20classe.jpg?itok=kZu2ymFI",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Sergent-chef",
+      "Sergent",
+      "Caporal-chef de 1re classe",
+      "Lieutenant"
+    ],
+    "answer": 2,
+    "explanation": "Reponse officielle (site Armee de Terre): Caporal-chef de 1re classe."
+  },
+  {
+    "id": "gq019",
+    "chapter": "Grades",
+    "difficulty": "facile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/Grade%20de%20caporal-chef.png?h=d1cb525d&itok=lDWxDLSJ",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Sergent-chef",
+      "Adjudant-chef",
+      "Capitaine",
+      "Caporal-chef"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Caporal-chef."
+  },
+  {
+    "id": "gq020",
+    "chapter": "Grades",
+    "difficulty": "facile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/caporal%20brigadier.png?h=d1cb525d&itok=kVomuiaP",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Sous-lieutenant",
+      "Marechal de France",
+      "Sergent-chef",
+      "Caporal"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Caporal."
+  },
+  {
+    "id": "gq021",
+    "chapter": "Grades",
+    "difficulty": "facile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/Soldat%20de%201re%20classe.png?h=d1cb525d&itok=k2eCFDhg",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "Commandant",
+      "Soldat de 1re classe",
+      "Sergent-chef",
+      "Marechal de France"
+    ],
+    "answer": 1,
+    "explanation": "Reponse officielle (site Armee de Terre): Soldat de 1re classe."
+  },
+  {
+    "id": "gq022",
+    "chapter": "Grades",
+    "difficulty": "facile",
+    "question": "Quel est ce grade ?",
+    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Soldat.jpg?itok=Mi6UmJhv",
+    "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
+    "is_grade": true,
+    "options": [
+      "General de corps d'armee",
+      "Sergent",
+      "Adjudant",
+      "Soldat"
+    ],
+    "answer": 3,
+    "explanation": "Reponse officielle (site Armee de Terre): Soldat."
+  }
+]
