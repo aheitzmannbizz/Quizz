@@ -1285,6 +1285,182 @@
     "explanation": "Le catalogue illustre FAMAS est reference MAT. 1234."
   },
   {
+    "id": "q090",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece correspond au numero 6 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Branche de bipied",
+      "Levier d'armement",
+      "Canon",
+      "Appuie-joue mobile"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des pieces du FAMAS F1, le numero 6 correspond a la branche de bipied."
+  },
+  {
+    "id": "q091",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece correspond au numero 8 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Chargeur",
+      "Levier d'armement",
+      "Queue de detente",
+      "Bague d'enfoncement de grenade"
+    ],
+    "answer": 1,
+    "explanation": "Le numero 8 du schema est le levier d'armement."
+  },
+  {
+    "id": "q092",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece correspond au numero 9 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Alidade de visee pour tir de grenade",
+      "Pontet",
+      "Crosse amovible",
+      "Extracteur"
+    ],
+    "answer": 0,
+    "explanation": "Le numero 9 est l'alidade de visee pour les tirs de grenade (tir courbe)."
+  },
+  {
+    "id": "q093",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece correspond au numero 10 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Cache-flamme",
+      "Bague d'enfoncement de grenade",
+      "Appuie-joue",
+      "Puits de chargeur"
+    ],
+    "answer": 1,
+    "explanation": "Le numero 10 du schema FAMAS correspond a la bague d'enfoncement de grenade."
+  },
+  {
+    "id": "q094",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece correspond au numero 11 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Manchon cache-flamme",
+      "Tube de crosse",
+      "Boitier de mecanisme",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Le numero 11 est le manchon cache-flamme."
+  },
+  {
+    "id": "q095",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece correspond au numero 12 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Levier de surete",
+      "Canon",
+      "Hausse",
+      "Masse additionnelle"
+    ],
+    "answer": 1,
+    "explanation": "Le numero 12 du schema FAMAS est le canon."
+  },
+  {
+    "id": "q096",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece correspond au numero 2 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Crosse amovible",
+      "Levier d'armement",
+      "Chargeur",
+      "Talon de crosse"
+    ],
+    "answer": 0,
+    "explanation": "Le numero 2 designe la crosse amovible."
+  },
+  {
+    "id": "q097",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS (schema culasse): comment est surnomme l'ensemble tete amovible + ejecteur + extracteur + obturateur ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS_Bolt-gr.PNG",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Tete de renard",
+      "Tete de Mickey",
+      "Bloc gamma",
+      "Noeud de culasse"
+    ],
+    "answer": 1,
+    "explanation": "Le jargon cite pour cet ensemble de pieces est 'tete de Mickey'."
+  },
+  {
+    "id": "q098",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (photo): quel element est clairement visible de part et d'autre sous l'arme ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-img_1016.jpg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Deux branches de bipied",
+      "Un lance-grenades M203",
+      "Une crosse retractable",
+      "Un silencieux"
+    ],
+    "answer": 0,
+    "explanation": "Sur cette photo FAMAS, on distingue les deux branches de bipied deployeees."
+  },
+  {
+    "id": "q099",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (photo): quelle piece amovible alimente l'arme en cartouches ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-img_1018.jpg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Le chargeur",
+      "La bretelle",
+      "Le cache-flamme",
+      "Le pontet"
+    ],
+    "answer": 0,
+    "explanation": "La piece d'alimentation amovible visible est le chargeur."
+  },
+  {
+    "id": "q100",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (avec schema): quelle piece est specifique au confort de tir droitier/gaucher ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Appuie-joue mobile",
+      "Canon lourd",
+      "Compensateur radial",
+      "Crosse telescopique"
+    ],
+    "answer": 0,
+    "explanation": "Le schema indique l'appuie-joue mobile, element lie au changement du cote d'ejection."
+  },
+  {
     "id": "gq001",
     "chapter": "Grades",
     "difficulty": "difficile",
