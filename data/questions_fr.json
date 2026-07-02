@@ -925,6 +925,366 @@
     "explanation": "Son emploi long dans les forces francaises en fait un symbole bien connu."
   },
   {
+    "id": "q066",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (renseignements numeriques): quel calibre est indique ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "5,56 mm",
+      "7,62 mm",
+      "9 mm",
+      "12,7 mm"
+    ],
+    "answer": 0,
+    "explanation": "La section FAMAS indique un calibre de 5,56 mm."
+  },
+  {
+    "id": "q067",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle est la masse de l'arme nue ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "3,780 kg",
+      "4,370 kg",
+      "2,950 kg",
+      "5,120 kg"
+    ],
+    "answer": 0,
+    "explanation": "Le tableau FAMAS mentionne 3,780 kg pour l'arme nue."
+  },
+  {
+    "id": "q068",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle est la masse en ordre de combat (chargeur garni, bretelle) ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "3,780 kg",
+      "4,370 kg",
+      "4,000 kg",
+      "4,850 kg"
+    ],
+    "answer": 1,
+    "explanation": "Le livret FAMAS donne 4,370 kg en ordre de combat."
+  },
+  {
+    "id": "q069",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle est la longueur de l'arme (sans baionnette) ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "0,757 m",
+      "0,488 m",
+      "0,330 m",
+      "0,900 m"
+    ],
+    "answer": 0,
+    "explanation": "La longueur du FAMAS sans baionnette est donnee a 0,757 m."
+  },
+  {
+    "id": "q070",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle longueur de canon est indiquee ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "0,330 m",
+      "0,757 m",
+      "0,488 m",
+      "0,600 m"
+    ],
+    "answer": 2,
+    "explanation": "Le canon du FAMAS est indique a 0,488 m."
+  },
+  {
+    "id": "q071",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle est la longueur de la ligne de mire ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "0,330 m",
+      "0,488 m",
+      "0,757 m",
+      "0,250 m"
+    ],
+    "answer": 0,
+    "explanation": "Le livret FAMAS indique 0,330 m pour la ligne de mire."
+  },
+  {
+    "id": "q072",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS: quelle vitesse initiale est mentionnee ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "720 m/s",
+      "960 m/s",
+      "1050 m/s",
+      "620 m/s"
+    ],
+    "answer": 1,
+    "explanation": "La vitesse initiale du FAMAS est indiquee a 960 m/s."
+  },
+  {
+    "id": "q073",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle cadence theorique est indiquee ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "100 coups/min",
+      "600 coups/min",
+      "1 000 coups/min",
+      "1 500 coups/min"
+    ],
+    "answer": 2,
+    "explanation": "La cadence theorique du FAMAS est de 1 000 coups/min."
+  },
+  {
+    "id": "q074",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle cadence pratique de tir est mentionnee ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "100 coups/min",
+      "250 coups/min",
+      "40 coups/min",
+      "1 000 coups/min"
+    ],
+    "answer": 0,
+    "explanation": "Le tableau FAMAS mentionne 100 coups/min en cadence pratique."
+  },
+  {
+    "id": "q075",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quelle portee maximale est indiquee ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "300 m",
+      "1 800 m",
+      "3 200 m",
+      "4 500 m"
+    ],
+    "answer": 2,
+    "explanation": "La portee maximale du FAMAS est donnee a 3 200 m."
+  },
+  {
+    "id": "q076",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS: quelle portee pratique est mentionnee ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "300 m",
+      "600 m",
+      "150 m",
+      "900 m"
+    ],
+    "answer": 0,
+    "explanation": "La portee pratique du FAMAS est indiquee a 300 m."
+  },
+  {
+    "id": "q077",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quelle precision est indiquee dans le tableau ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "H + L = 20 cm a 100 m",
+      "H + L = 40 cm a 200 m",
+      "H + L = 60 cm a 300 m",
+      "H + L = 80 cm a 400 m"
+    ],
+    "answer": 1,
+    "explanation": "La precision FAMAS mentionnee est H + L = 40 cm a 200 m."
+  },
+  {
+    "id": "q078",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quel pouvoir de perforation est indique ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "Casque toutes armes jusqu'a 300 m",
+      "Blindage leger jusqu'a 600 m",
+      "Plaque acier 10 mm a 500 m",
+      "Casque uniquement a 100 m"
+    ],
+    "answer": 0,
+    "explanation": "Le livret FAMAS indique la perforation d'un casque toutes armes jusqu'a 300 m."
+  },
+  {
+    "id": "q079",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS: quelle contenance de magasin est indiquee ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "20 cartouches",
+      "25 cartouches",
+      "30 cartouches",
+      "35 cartouches"
+    ],
+    "answer": 1,
+    "explanation": "La section FAMAS mentionne un chargeur de 25 cartouches."
+  },
+  {
+    "id": "q080",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: parmi ces affirmations, laquelle est correcte sur l'equipement ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "Le FAMAS est dote d'une baionnette et d'une bretelle",
+      "Le FAMAS est depourvu de bretelle",
+      "Le FAMAS n'accepte aucun accessoire",
+      "Le FAMAS est uniquement livre avec viseur thermique"
+    ],
+    "answer": 0,
+    "explanation": "Le texte FAMAS precise la presence d'une baionnette et d'une bretelle."
+  },
+  {
+    "id": "q081",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: quel element repliable est explicitement mentionne ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "Deux branches de bipied repliables",
+      "Crosse telescopique a 6 positions",
+      "Poignee avant rabattable",
+      "Monopied de crosse"
+    ],
+    "answer": 0,
+    "explanation": "La page indique que le FAMAS est equipe de deux branches de bipied repliables."
+  },
+  {
+    "id": "q082",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quelle est la designation abregee mentionnee dans le marquage de l'arme ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "F.A.M.A.S. 5,56 - F 1",
+      "FAMAS 7,62 - G2",
+      "MAS FAMAS 9 mm",
+      "FAMAS F2 5,56"
+    ],
+    "answer": 0,
+    "explanation": "Le marquage indique la designation abregee F.A.M.A.S. 5,56 - F 1."
+  },
+  {
+    "id": "q083",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: comment est decrit le numero d'identification sur l'arme ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "Une lettre suivie de cinq chiffres",
+      "Deux lettres suivies de deux chiffres",
+      "Huit chiffres sans lettre",
+      "Trois lettres et trois chiffres"
+    ],
+    "answer": 0,
+    "explanation": "Le marquage FAMAS mentionne un numero compose d'une lettre et de cinq chiffres."
+  },
+  {
+    "id": "q084",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS: ou est grave ce numero d'identification selon la page ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "Sur le cote droit de la boite de culasse",
+      "Sous la plaque de couche",
+      "Sur la bretelle",
+      "Dans le chargeur"
+    ],
+    "answer": 0,
+    "explanation": "La page FAMAS situe ce numero sur le cote droit de la boite de culasse."
+  },
+  {
+    "id": "q085",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quelle piece de securite est citee dans la neutralisation de l'arme ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "Boitier de mecanisme",
+      "Goupille de hausse",
+      "Bloc optique",
+      "Compensateur de bouche"
+    ],
+    "answer": 0,
+    "explanation": "La neutralisation FAMAS mentionne la piece de securite: boitier de mecanisme."
+  },
+  {
+    "id": "q086",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quel document MAT est reference comme guide technique ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "MAT. 1057",
+      "MAT. 1178",
+      "MAT. 1234",
+      "MAT. 1123"
+    ],
+    "answer": 0,
+    "explanation": "Dans la documentation FAMAS, le guide technique est MAT. 1057."
+  },
+  {
+    "id": "q087",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quel numero correspond a la notice technique ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "MAT. 1234",
+      "MAT. 1123",
+      "MAT. 1057",
+      "MAT. 1178"
+    ],
+    "answer": 1,
+    "explanation": "La notice technique FAMAS est referencee MAT. 1123."
+  },
+  {
+    "id": "q088",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quel numero correspond au manuel de reparation ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "MAT. 1057",
+      "MAT. 1123",
+      "MAT. 1178",
+      "MAT. 1234"
+    ],
+    "answer": 2,
+    "explanation": "Le manuel de reparation FAMAS est MAT. 1178."
+  },
+  {
+    "id": "q089",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS: quel numero correspond au catalogue illustre ?",
+    "source": "Photo livret FAMAS fournie par l'utilisateur",
+    "options": [
+      "MAT. 1234",
+      "MAT. 1178",
+      "MAT. 1123",
+      "MAT. 1057"
+    ],
+    "answer": 0,
+    "explanation": "Le catalogue illustre FAMAS est reference MAT. 1234."
+  },
+  {
     "id": "gq001",
     "chapter": "Grades",
     "difficulty": "difficile",
