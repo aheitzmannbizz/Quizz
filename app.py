@@ -14,6 +14,18 @@ def is_grade_question(q: dict) -> bool:
     return bool(q.get("is_grade")) or q.get("chapter") == "Grades"
 
 
+def is_famas_question(q: dict) -> bool:
+    haystack = " ".join(
+        [
+            str(q.get("chapter", "")),
+            str(q.get("question", "")),
+            str(q.get("explanation", "")),
+            str(q.get("source", "")),
+        ]
+    ).lower()
+    return "famas" in haystack
+
+
 def inject_theme() -> None:
     st.markdown(
         """
@@ -267,11 +279,15 @@ def prepare_quiz(
     levels: list[str],
     amount: int,
     only_grades: bool = False,
+    only_famas: bool = False,
 ) -> list[dict]:
     selected = [
         q
         for q in questions
-        if q["chapter"] in chapters and q["difficulty"] in levels and (not only_grades or is_grade_question(q))
+        if q["chapter"] in chapters
+        and q["difficulty"] in levels
+        and (not only_grades or is_grade_question(q))
+        and (not only_famas or is_famas_question(q))
     ]
 
     if not selected:
@@ -313,8 +329,15 @@ def reset_state() -> None:
     st.session_state.history = []
 
 
-def start_quiz(bank: list[dict], chapters: list[str], levels: list[str], amount: int, only_grades: bool = False) -> None:
-    quiz = prepare_quiz(bank, chapters, levels, amount, only_grades=only_grades)
+def start_quiz(
+    bank: list[dict],
+    chapters: list[str],
+    levels: list[str],
+    amount: int,
+    only_grades: bool = False,
+    only_famas: bool = False,
+) -> None:
+    quiz = prepare_quiz(bank, chapters, levels, amount, only_grades=only_grades, only_famas=only_famas)
     reset_state()
     st.session_state.quiz = quiz
     st.session_state.collapse_sidebar_once = True
@@ -370,11 +393,19 @@ with st.sidebar:
     )
 
     only_grade_questions = st.checkbox("Seulement questions de grades", value=False)
+    only_famas_questions = st.checkbox(
+        "Seulement questions FAMAS",
+        value=False,
+        disabled=only_grade_questions,
+    )
 
     effective_chapters = selected_chapters
     if only_grade_questions:
         effective_chapters = ["Grades"]
         st.caption("Mode grades: seules les questions de grades seront utilisees.")
+    elif only_famas_questions:
+        effective_chapters = all_chapters
+        st.caption("Mode FAMAS: seules les questions liees au FAMAS seront utilisees.")
 
     available_count = sum(
         1
@@ -382,6 +413,7 @@ with st.sidebar:
         if q["chapter"] in effective_chapters
         and q["difficulty"] in selected_levels
         and (not only_grade_questions or is_grade_question(q))
+        and (not only_famas_questions or is_famas_question(q))
     )
 
     if available_count == 0:
@@ -408,6 +440,7 @@ with st.sidebar:
             selected_levels,
             question_count,
             only_grades=only_grade_questions,
+            only_famas=only_famas_questions,
         )
         st.rerun()
 
