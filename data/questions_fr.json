@@ -700,6 +700,231 @@
     "explanation": "La lecture de carte sert a orienter la manoeuvre sur le terrain."
   },
   {
+    "id": "q051",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "Que signifie l'acronyme FAMAS ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Fusil d'Assaut de la Manufacture d'Armes de Saint-Etienne",
+      "Formation Avancee du Militaire d'Appui et de Securite",
+      "Fusil Automatique Multicalibre d'Appui Special",
+      "Force Armee Mobile d'Action et de Soutien"
+    ],
+    "answer": 0,
+    "explanation": "Selon la source, FAMAS signifie Fusil d'Assaut de la Manufacture d'Armes de Saint-Etienne."
+  },
+  {
+    "id": "q052",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "Le FAMAS est classe dans quelle famille d'armes longues ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Fusil de precision a verrou",
+      "Pistolet-mitrailleur",
+      "Fusil d'assaut",
+      "Fusil a pompe"
+    ],
+    "answer": 2,
+    "explanation": "Le FAMAS est presente comme un fusil d'assaut."
+  },
+  {
+    "id": "q053",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Quelle architecture generale caracterise le FAMAS ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Bullpup",
+      "A verrou classique",
+      "Levier de sous-garde",
+      "Monocoup"
+    ],
+    "answer": 0,
+    "explanation": "Le FAMAS est connu pour son architecture bullpup."
+  },
+  {
+    "id": "q054",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Quel calibre est principalement associe au FAMAS moderne ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "7,62 x 51 mm OTAN",
+      "5,56 x 45 mm OTAN",
+      "9 x 19 mm",
+      "12,7 x 99 mm"
+    ],
+    "answer": 1,
+    "explanation": "Le FAMAS est principalement en 5,56 x 45 mm OTAN."
+  },
+  {
+    "id": "q055",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Le FAMAS a ete fabrique historiquement par quelle manufacture ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Manufacture d'Armes de Saint-Etienne (MAS)",
+      "Heckler & Koch",
+      "Fabrique Nationale Herstal",
+      "Beretta"
+    ],
+    "answer": 0,
+    "explanation": "La fabrication historique est attribuee a la MAS."
+  },
+  {
+    "id": "q056",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Parmi ces versions, laquelle est une variante connue du FAMAS ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "AKM",
+      "FAMAS F1",
+      "M4A1",
+      "G36C"
+    ],
+    "answer": 1,
+    "explanation": "Le FAMAS F1 est une version de reference du systeme."
+  },
+  {
+    "id": "q057",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "Quelle autre variante du FAMAS est egalement documentee ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "FAMAS G2",
+      "FAMAS K98",
+      "FAMAS MP5",
+      "FAMAS 416"
+    ],
+    "answer": 0,
+    "explanation": "La variante G2 est une evolution connue du FAMAS."
+  },
+  {
+    "id": "q058",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "Quel mode de fonctionnement est couramment associe au FAMAS ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Culasse non calee a retard par levier",
+      "Emprunt de gaz a piston long uniquement",
+      "Pompe manuelle",
+      "A verrou rotatif manuel"
+    ],
+    "answer": 0,
+    "explanation": "Le FAMAS est generalement decrit avec un systeme a retard par levier."
+  },
+  {
+    "id": "q059",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "Le FAMAS est associe a quelle armee nationale en priorite historique ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Armee britannique",
+      "Armee de terre francaise",
+      "US Army",
+      "Bundeswehr"
+    ],
+    "answer": 1,
+    "explanation": "Le FAMAS est emblématique de l'armee francaise."
+  },
+  {
+    "id": "q060",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Quelle periode correspond a l'adoption du FAMAS dans les forces francaises ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Fin des annees 1970",
+      "Debut des annees 1950",
+      "Debut des annees 2000",
+      "Annees 1930"
+    ],
+    "answer": 0,
+    "explanation": "Le FAMAS est adopte a la fin des annees 1970."
+  },
+  {
+    "id": "q061",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "Quelle affirmation est correcte concernant l'alimentation selon les variantes ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "La G2 est adaptee aux chargeurs standards OTAN de 30 coups",
+      "Toutes les variantes utilisent exactement le meme chargeur proprietaire",
+      "Le FAMAS ne fonctionne qu'en alimentation bande",
+      "Le FAMAS n'accepte aucun chargeur detachable"
+    ],
+    "answer": 0,
+    "explanation": "La variante G2 est concue pour la standardisation OTAN des chargeurs."
+  },
+  {
+    "id": "q062",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Quelle idee de securite reste valable quel que soit le modele de fusil d'assaut ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Traiter toute arme comme chargee et controler la direction du canon",
+      "Se fier uniquement a la surete mecanique",
+      "Pointer l'arme vers le haut sans verification",
+      "Ignorer les consignes en stand"
+    ],
+    "answer": 0,
+    "explanation": "La regle universelle de securite est de considerer l'arme comme chargee et maitriser son orientation."
+  },
+  {
+    "id": "q063",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "Dans la modernisation de l'equipement FELIN, le FAMAS a surtout recu quoi ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Des interfaces et accessoires adaptes a la numerisation du combattant",
+      "Une conversion en calibre 12",
+      "La suppression totale des organes de visee",
+      "Une transformation en arme a verrou"
+    ],
+    "answer": 0,
+    "explanation": "Le programme FELIN a accompagne l'integration de nouveaux accessoires et interfaces."
+  },
+  {
+    "id": "q064",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "Quel remplacement progressif est souvent mentionne pour le FAMAS dans l'armee francaise ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Le HK416F",
+      "Le FR-F2",
+      "Le Minimi 7,62",
+      "Le PA MAC 50"
+    ],
+    "answer": 0,
+    "explanation": "Le HK416F est indique comme remplacant progressif du FAMAS dans les unites francaises."
+  },
+  {
+    "id": "q065",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "Pourquoi le FAMAS est-il souvent cite dans la culture militaire francaise recente ?",
+    "source": "https://fr.wikipedia.org/wiki/FAMAS",
+    "options": [
+      "Parce qu'il a equipe durablement les forces francaises",
+      "Parce qu'il n'a jamais ete utilise en service",
+      "Parce qu'il etait reserve uniquement a la marine marchande",
+      "Parce qu'il remonte au XIXe siecle"
+    ],
+    "answer": 0,
+    "explanation": "Son emploi long dans les forces francaises en fait un symbole bien connu."
+  },
+  {
     "id": "gq001",
     "chapter": "Grades",
     "difficulty": "difficile",
