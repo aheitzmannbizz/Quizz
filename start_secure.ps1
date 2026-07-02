@@ -18,7 +18,7 @@ if (-not $cloudflared) {
 }
 
 Write-Host "Demarrage du quiz (Streamlit) dans une nouvelle fenetre..." -ForegroundColor Cyan
-Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$projectRoot'; & '$pythonExe' -m streamlit run app.py --server.address 0.0.0.0 --server.port 8501"
+Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$projectRoot'; & '$pythonExe' -m streamlit run app.py --server.address 0.0.0.0 --server.port 8501 --server.headless true --server.enableCORS false --server.enableXsrfProtection false"
 
 Start-Sleep -Seconds 2
 

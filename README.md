@@ -14,7 +14,7 @@ pip install -r requirements.txt
 3. Demarrer l'application:
 
 ```powershell
-streamlit run app.py --server.address 0.0.0.0 --server.port 8501
+streamlit run app.py --server.address 0.0.0.0 --server.port 8501 --server.headless true --server.enableCORS false --server.enableXsrfProtection false
 ```
 
 4. Ouvrir l'URL locale affichee dans le terminal (en general http://localhost:8501).
@@ -59,7 +59,7 @@ winget install --id Cloudflare.cloudflared -e
 2. Lancer le quiz:
 
 ```powershell
-streamlit run app.py --server.address 0.0.0.0 --server.port 8501
+streamlit run app.py --server.address 0.0.0.0 --server.port 8501 --server.headless true --server.enableCORS false --server.enableXsrfProtection false
 ```
 
 3. Dans un 2e terminal, lancer le tunnel securise:
@@ -86,6 +86,16 @@ Remarques:
 - Le lien est temporaire (il change a chaque lancement du tunnel).
 - Garder les 2 terminaux ouverts (Streamlit + Cloudflared).
 - C'est la methode la plus simple pour partager le quiz en HTTPS sans config reseau complexe.
+
+## Depannage iOS rapide
+
+Si Safari iPhone n'affiche pas le quiz:
+
+- Fermer/reouvrir Safari puis recharger la page.
+- Essayer le lien HTTPS Cloudflare (start_secure.ps1) plutot que l'IP locale.
+- Sur iPhone: Reglages > Wi-Fi > votre reseau > desactiver temporairement "Limiter le suivi de l'adresse IP".
+- Verifier que VPN/proxy est desactive sur PC et iPhone.
+- Verifier dans la fenetre Streamlit qu'il n'y a pas d'erreur au chargement.
 
 ## Fonctionnalites
 
