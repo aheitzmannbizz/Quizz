@@ -167,20 +167,20 @@
     "answer": 0,
     "explanation": "Le code d'honneur liste des principes de conduite et de discipline."
   },
-  {
-    "id": "q013",
-    "chapter": "Rappels de base",
-    "difficulty": "facile",
-    "question": "Quel chant est explicitement cite dans ce chapitre ?",
-    "options": [
-      "La Marseillaise",
-      "Le Chant des Partisans",
-      "Le Boudin",
-      "Sambre et Meuse"
-    ],
-    "answer": 0,
-    "explanation": "Une page du livret reproduit des couplets de La Marseillaise."
-  },
+  //{
+  //  "id": "q013",
+   //"chapter": "Rappels de base",
+    //"difficulty": "facile",
+   // "question": "Quel chant est explicitement cite dans ce chapitre ?",
+    //"options": [
+     // "La Marseillaise",
+      //"Le Chant des Partisans",
+     // "Le Boudin",
+    //  "Sambre et Meuse"
+    //],
+    //"answer": 0,
+    //"explanation": "Une page du livret reproduit des couplets de La Marseillaise."
+ // },
   {
     "id": "q014",
     "chapter": "Rappels de base",
@@ -1033,7 +1033,7 @@
     "id": "q073",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS: quelle cadence theorique est indiquee ?",
+    "question": "FAMAS: quelle est la cadence theorique ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
       "100 coups/min",
@@ -1048,7 +1048,7 @@
     "id": "q074",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS: quelle cadence pratique de tir est mentionnee ?",
+    "question": "FAMAS: quelle est la cadence pratique de tir ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
       "100 coups/min",
@@ -1063,7 +1063,7 @@
     "id": "q075",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS: quelle portee maximale est indiquee ?",
+    "question": "FAMAS: quelle wat la portee maximale ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
       "300 m",
@@ -1078,7 +1078,7 @@
     "id": "q076",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS: quelle portee pratique est mentionnee ?",
+    "question": "FAMAS: quelle est la portee pratique ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
       "300 m",
@@ -1108,7 +1108,7 @@
     "id": "q078",
     "chapter": "ISTC - Tir",
     "difficulty": "difficile",
-    "question": "FAMAS: quel pouvoir de perforation est indique ?",
+    "question": "FAMAS: quel pouvoir de perforation a le FAMAS ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
       "Casque toutes armes jusqu'a 300 m",
@@ -1123,7 +1123,7 @@
     "id": "q079",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS: quelle contenance de magasin est indiquee ?",
+    "question": "FAMAS: quelle est la contenance de magasin ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
       "20 cartouches",
@@ -1198,7 +1198,7 @@
     "id": "q084",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS: ou est grave ce numero d'identification selon la page ?",
+    "question": "FAMAS: ou est grave ce numero d'identification ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
       "Sur le cote droit de la boite de culasse",
