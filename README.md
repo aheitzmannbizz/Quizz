@@ -70,6 +70,17 @@ cloudflared tunnel --url http://localhost:8501
 
 4. Copier le lien HTTPS affiche (exemple: https://xxxx.trycloudflare.com) et l'ouvrir sur iPhone.
 
+Option ultra simple (1 commande):
+
+```powershell
+.\start_secure.ps1
+```
+
+Ce script ouvre automatiquement:
+
+- une fenetre pour Streamlit
+- une fenetre pour Cloudflared (avec le lien HTTPS a copier)
+
 Remarques:
 
 - Le lien est temporaire (il change a chaque lancement du tunnel).
@@ -90,3 +101,4 @@ Remarques:
 - app.py : interface et logique du quiz.
 - data/questions_fr.json : banque de questions.
 - requirements.txt : dependances Python.
+- start_secure.ps1 : lancement en 1 commande (quiz + lien HTTPS Cloudflare).
