@@ -392,9 +392,9 @@ with st.sidebar:
         default=all_levels,
     )
 
-    only_grade_questions = st.checkbox("Seulement questions de grades", value=False)
+    only_grade_questions = st.checkbox("Uniquement questions de grades", value=False)
     only_famas_questions = st.checkbox(
-        "Seulement questions FAMAS",
+        "Uniquement questions FAMAS",
         value=False,
         disabled=only_grade_questions,
     )
