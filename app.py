@@ -367,7 +367,7 @@ def close_sidebar_once_if_needed() -> None:
     st.session_state.collapse_sidebar_once = False
 
 
-st.set_page_config(page_title="Quiz Memento Militaire", layout="centered", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Quiz Memento Militaire S2", layout="centered", initial_sidebar_state="collapsed")
 inject_theme()
 
 if "quiz" not in st.session_state:
