@@ -5,28 +5,15 @@
     "difficulty": "facile",
     "question": "Quel est le titre du livret utilise pour ce quiz ?",
     "options": [
-      "Memento Militaire du rang",
       "Guide du reserviste naval",
+      "Memento Militaire du rang"
       "Manuel de topographie alpine",
       "Carnet de campagne IST-R"
     ],
     "answer": 0,
     "explanation": "La couverture mentionne clairement 'Memento Militaire du rang'."
   },
-  {
-    "id": "q002",
-    "chapter": "Organisation",
-    "difficulty": "facile",
-    "question": "Dans le sommaire, quel chapitre apparait en premier ?",
-    "options": [
-      "Rappels de base",
-      "Organisation",
-      "Topographie",
-      "PSC1/SC1"
-    ],
-    "answer": 1,
-    "explanation": "Le sommaire commence par le chapitre I: Organisation."
-  },
+  
   {
     "id": "q003",
     "chapter": "Organisation",
@@ -194,20 +181,6 @@
     ],
     "answer": 0,
     "explanation": "Le livret rattache clairement tradition, cohesion et identite collective."
-  },
-  {
-    "id": "q016",
-    "chapter": "Renseignements et compte-rendus",
-    "difficulty": "facile",
-    "question": "Le renseignement, dans ce contexte, designe surtout quoi ?",
-    "options": [
-      "L'information utile a la decision du chef",
-      "Le carnet medical",
-      "Le livret de solde",
-      "Le registre de maintenance"
-    ],
-    "answer": 0,
-    "explanation": "Le chapitre III traite des informations operationnelles pour l'action."
   },
   {
     "id": "q017",
@@ -409,7 +382,7 @@
     "id": "q031",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "Que signifie IST-C dans le livret ?",
+    "question": "Que signifie IST-C ?",
     "options": [
       "Instruction sur le Tir de Combat",
       "Index de Securite des Transmissions",
@@ -507,7 +480,7 @@
     "id": "q038",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "Que designe FAMAS dans le livret ?",
+    "question": "Que designe FAMAS ?",
     "options": [
       "Fusil d'Assaut de la Manufacture d'Armes de Saint-Etienne",
       "Formation avancee de maniere autonome",
@@ -1139,10 +1112,10 @@
     "id": "q081",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS: quel element repliable est explicitement mentionne ?",
+    "question": "FAMAS: quel element est repliable ?",
     "source": "Photo livret FAMAS fournie par l'utilisateur",
     "options": [
-      "Deux branches de bipied repliables",
+      "Deux branches de bipied",
       "Crosse telescopique a 6 positions",
       "Poignee avant rabattable",
       "Monopied de crosse"

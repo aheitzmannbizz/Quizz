@@ -126,7 +126,7 @@ def inject_theme() -> None:
             font-weight: 700;
             color: var(--army-900);
         }
-
+        
         .question-box {
             border: 1px solid rgba(36, 46, 31, 0.22);
             border-left: 5px solid var(--army-700);
