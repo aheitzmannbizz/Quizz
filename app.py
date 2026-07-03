@@ -444,12 +444,16 @@ with st.sidebar:
         )
         st.rerun()
 
-    if st.button("🇫🇷 La Marseillaise", use_container_width=True):
+    if st.button("La Marseillaise", use_container_width=True):
         st.session_state.show_marseillaise = not st.session_state.get("show_marseillaise", False)
         st.rerun()
     
     if st.button("🎺 Chant du départ", use_container_width=True):
         st.session_state.show_chant_depart = not st.session_state.get("show_chant_depart", False)
+        st.rerun()
+    
+    if st.button("🔫 Le Chant des partisans", use_container_width=True):
+        st.session_state.show_chant_partisans = not st.session_state.get("show_chant_partisans", False)
         st.rerun()
 
 close_sidebar_once_if_needed()
@@ -465,7 +469,7 @@ if st.session_state.get("show_marseillaise", False):
             st.session_state.show_marseillaise = False
             st.rerun()
     with col2:
-        st.markdown("[🎵 Écouter sur YouTube](https://www.youtube.com/results?search_query=la+marseillaise)")
+        st.markdown("[🎵 Écouter sur YouTube](https://youtu.be/SRl7AzeWwOo?si=uJLKGdbqfFhlW-Ii)")
     
     st.divider()
     
