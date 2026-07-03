@@ -385,7 +385,7 @@ with st.sidebar:
         "Chapitres",
         all_chapters,
         default=all_chapters,
-    )
+        )
     selected_levels = st.multiselect(
         "Difficultes",
         all_levels,
