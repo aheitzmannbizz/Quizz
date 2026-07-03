@@ -1228,21 +1228,7 @@
     "answer": 2,
     "explanation": "Le manuel de reparation FAMAS est MAT. 1178."
   },
-  {
-    "id": "q089",
-    "chapter": "ISTC - Tir",
-    "difficulty": "difficile",
-    "question": "FAMAS: quel numero correspond au catalogue illustre ?",
-    "source": "Photo livret FAMAS fournie par l'utilisateur",
-    "options": [
-      "MAT. 1234",
-      "MAT. 1178",
-      "MAT. 1123",
-      "MAT. 1057"
-    ],
-    "answer": 0,
-    "explanation": "Le catalogue illustre FAMAS est reference MAT. 1234."
-  },
+
   {
     "id": "q090",
     "chapter": "ISTC - Tir",
