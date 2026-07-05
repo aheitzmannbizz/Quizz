@@ -465,8 +465,8 @@ with st.sidebar:
         st.session_state.show_commandos = not st.session_state.get("show_commandos", False)
         st.rerun()
     
-    if st.button("🎺 Chant du départ", use_container_width=True):
-        st.session_state.show_chant_depart = not st.session_state.get("show_chant_depart", False)
+    if st.button("🎺 Ceux du Liban", use_container_width=True):
+        st.session_state.show_ceux_liban = not st.session_state.get("show_ceux_liban", False)
         st.rerun()
     
     if st.button("🔫 Le Chant des partisans", use_container_width=True):
@@ -491,105 +491,88 @@ if st.session_state.get("show_commandos", False):
     st.divider()
     
     Lescommandos_text = """
-## 
-Les commandos partent pour l'aventure
-Soleil couchant les salue
-Chez l'ennemi la nuit sera très dure
-Pour ceux qui pillent et qui tuent
-France, ô ma France très belle
-Pour toi je ferais bataille
-Je quitterai père et mère
-Sans espoir de les revoir jamais
+1. Les commandos partent pour l'aventure
+Soleil couchant les salue, 2.1.2
+Chez l'ennemi, la nuit sera très dure
+Pour ceux qui pillent et qui tuent. 2.1.2
 
-La-la-la-la, la, la, la, la, la, la
-La-la, la-la, la, la-la-la-la-la
-La-la-la-la, la, la, la, la, la, la
-La-la, la-la, la, la
-En arrivant sur le (?)
-Ils songeront à leur vie
-Demain peut-être sera éternel
-Ils tomberont dans l'oubli
-France, ô ma France très belle
-Pour toi je ferais bataille
-Je quitterai père et mère
-Sans espoir de les revoir jamais
-La-la-la-la, la, la, la, la, la, la
-La-la, la-la, la, la-la-la-la-la
-La-la-la-la, la, la, la, la, la, la
-La-la, la-la, la, la
-Si d'aventure la mort les refuse
-Ils reviendront jusqu'au ports
-Et ils boiront le Champagne qui fuse
-À la santé de leurs morts
-France, ô ma France très belle
-Pour toi je ferais bataille
-Je quitterai père et mère
-Sans espoir de les revoir jamais
-La-la-la-la, la, la, la, la, la, la
-La-la, la-la, la, la-la-la-la-la
-La-la-la-la, la, la, la, la, la, la
-La-la, la-la, la, la
+## Refrain
+
+France, ô ma France très belle 2
+Pour toi je ferai bataille, 2
+Je quitterai père et mère 2
+Sans espoir de les revoir jamais,
+La la la la la la la la la la, 2
+La la la la la la la la la la,
+La la la la la la la la la la, 2
+La la la la la la. 2.1.2
+
+2. Loin du biffin qui toujours les envie
+Un Dakota les dépose ; 2.1.2
+Loin de la fille qui pour eux toujours prie
+Dans leurs pépins ils reposent. 2.1.2
+
+3. En pagayant sur la mer toujours belle
+Ils songeront à leur vie, 2.1.2
+Ils peuvent demain devenir éternels (2)
+Ils tomberont dans l'oubli. 2.1.2
+
+4. Si d'aventure la mort les refuse
+Ils rentreront dans leur port, 2.1.2
+Et ils boiront le champagne qui fuse
+À la santé de leurs morts. 2.1.2
 """
     
     st.markdown(Lescommandos_text)
     st.stop()
 
-# Display Chant du départ if requested
-if st.session_state.get("show_chant_depart", False):
-    st.markdown("# 🎺 Chant du départ")
-    st.markdown("*Chant patriotique de la Révolution française*")
+# Display Ceux du Liban if requested
+if st.session_state.get("show_ceux_liban", False):
+    st.markdown("# 🎺 Ceux du Liban")
+    st.markdown("*Chant militaire* ")
     
     col1, col2 = st.columns([3, 1])
     with col1:
-        if st.button("Fermer", key="close_chant_depart"):
-            st.session_state.show_chant_depart = False
+        if st.button("Fermer", key="close_ceux_liban"):
+            st.session_state.show_ceux_liban = False
             st.rerun()
     with col2:
-        st.markdown("[🎵 Écouter sur YouTube](https://youtu.be/F0KMxoTetnc?si=Kw_wFW96HLvMpeVK)")
+        st.markdown("[🎵 Écouter sur YouTube](https://www.youtube.com/results?search_query=Ceux+du+Liban+chant)")
     
     st.divider()
     
-    chant_depart_text = """
-La victoire en chantant
-Nous ouvre la barrière
-La liberté guide nos pas
-Et du Nord au Midi
-La trompette guerrière
-A sonné l'heure des combats
+    ceux_liban_text = """
+1. Dans la boue, les sillons,
+Sous le ciel gris nous marchons,
+Malgré la fatigue et la pluie,
+Malgré la famine et l'ennui ;
+Nous veillons et nous attendons
+Que pour nous gronde le canon,
+Si demain il nous appelait,
+Nous partirions sans un regret.
 
-Tremblez ennemis de la France
-Rois ivres de sang et d'orgueil
-Le peuple souverain s'avance (le peuple souverain s'avance)
-Tyrans descendez au cercueil
+## Refrain
 
-**La République nous appelle**
-**Sachons vaincre ou sachons périr**
-**Un Français doit vivre pour elle (un Français doit vivre pour elle)**
-**Pour elle un Français doit mourir**
-**Un Français doit vivre pour elle (un Français doit vivre pour elle)**
-**Pour elle un Français doit mourir**
+La France pleure ses enfants
+Tombés là-bas au Levant,
+Nous garderons leur souvenir,
+Comme eux nous voulons bien servir.
+Nos anciens du Liban
+Nous précèdent en avant :
+Vivant pour le même horizon,
+Pour la France nous servirons.
 
----
-
-Que le fer paternel arme la main des braves
-Songez à nous au champ de Mars
-Consacrez dans le sang des rois et des esclaves
-Le fer béni par vos vieillards
-
-Et, rapportant sous la chaumière
-Des blessures et des vertus
-Venez fermer notre paupière (fermer notre paupière)
-Quand les tyrans n'y seront plus
-
-**La République nous appelle**
-**Sachons vaincre ou sachons périr**
-**Un Français doit vivre pour elle (un Français doit vivre pour elle)**
-**Pour elle un Français doit mourir**
-**Un Français doit vivre pour elle (un Français doit vivre pour elle)**
-**Pour elle un Français doit mourir**
+2. Sous le soleil brûlant
+Montaient nos rires et nos chants,
+Notre sourire était la paix
+Pour tous ces enfants qui souffraient,
+Sur nous des orages d'acier,
+Sur terre se sont déchaînés,
+Pour que sous un ciel bas et noir
+À jamais meure tout espoir.
 """
     
-    st.markdown(chant_depart_text)
+    st.markdown(ceux_liban_text)
     st.stop()
 
 if not st.session_state.quiz:
