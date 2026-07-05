@@ -477,8 +477,8 @@ close_sidebar_once_if_needed()
 
 # Display La Marseillaise if requested
 if st.session_state.get("show_marseillaise", False):
-    st.markdown("# 🇫🇷 La Marseillaise")
-    st.markdown("*Hymne National de la République Française*")
+    st.markdown("# Les commandos")
+    st.markdown("")
     
     col1, col2 = st.columns([3, 1])
     with col1:
@@ -491,110 +491,43 @@ if st.session_state.get("show_marseillaise", False):
     st.divider()
     
     marseillaise_text = """
-## **REFRAIN**
-
-Aux armes, citoyens !
-Formez vos bataillons !
-Marchons, marchons !
-Qu'un sang impur...
-Abreuve nos sillons !
-
----
-
-## **COUPLETS**
-
-### **I**
-
-Allons ! Enfants de la Patrie !
-Le jour de gloire est arrivé !
-Contre nous de la tyrannie,
-L'étendard sanglant est levé ! (Bis)
-Entendez-vous dans les campagnes
-Mugir ces féroces soldats ?
-Ils viennent jusque dans vos bras
-Égorger vos fils, vos compagnes
-
-**REFRAIN**
-
-### **II**
-
-Que veut cette horde d'esclaves,
-De traîtres, de rois conjurés ?
-Pour qui ces ignobles entraves,
-Ces fers dès longtemps préparés ? (Bis)
-Français ! Pour nous, ah ! Quel outrage !
-Quels transports il doit exciter ;
-C'est nous qu'on ose méditer
-De rendre à l'antique esclavage !
-
-**REFRAIN**
-
-### **III**
-
-Quoi ! Des cohortes étrangères
-Feraient la loi dans nos foyers !
-Quoi ! Des phalanges mercenaires
-Terrasseraient nos fiers guerriers ! (Bis)
-Dieu ! Nos mains seraient enchaînées !
-Nos fronts sous le joug se ploieraient !
-De vils despotes deviendraient
-Les maîtres de nos destinées !
-
-**REFRAIN**
-
-### **IV**
-
-Tremblez, tyrans et vous, perfides,
-L'opprobre de tous les partis !
-Tremblez ! Vos projets parricides
-Vont enfin recevoir leur prix. (Bis)
-Tout est soldat pour vous combattre.
-S'ils tombent, nos jeunes héros,
-La terre en produit de nouveaux
-Contre vous tout prêts à se battre.
-
-**REFRAIN**
-
-### **V**
-
-Français, en guerriers magnanimes
-Portons ou retenons nos coups !
-Épargnons ces tristes victimes,
-A regret, s'armant contre nous ! (Bis)
-Mais ce despote sanguinaire !
-Mais ces complices de Bouillé !
-Tous ces tigres qui, sans pitié,
-Déchirent le sein de leur mère !
-
-**REFRAIN**
-
-### **VI**
-
-Amour sacré de la Patrie
-Conduis, soutiens nos bras vengeurs !
-Liberté ! Liberté chérie,
-Combats avec tes défenseurs ! (Bis)
-Sous nos drapeaux que la Victoire
-Accoure à tes mâles accents !
-Que tes ennemis expirants
-Voient ton triomphe et notre gloire !
-
-**REFRAIN**
-
----
-
-### **COUPLET DES ENFANTS**
-
-Nous entrerons dans la carrière,
-Quand nos aînés n'y seront plus ;
-Nous y trouverons leur poussière
-Et la trace de leurs vertus. (Bis)
-Bien moins jaloux de leur survivre
-Que de partager leur cercueil
-Nous aurons le sublime orgueil
-De les venger ou de les suivre.
-
-**REFRAIN**
+## 
+Les commandos partent pour l'aventure
+Soleil couchant les salue
+Chez l'ennemi la nuit sera très dure
+Pour ceux qui pillent et qui tuent
+France, ô ma France très belle
+Pour toi je ferais bataille
+Je quitterai père et mère
+Sans espoir de les revoir jamais
+La-la-la-la, la, la, la, la, la, la
+La-la, la-la, la, la-la-la-la-la
+La-la-la-la, la, la, la, la, la, la
+La-la, la-la, la, la
+En arrivant sur le (?)
+Ils songeront à leur vie
+Demain peut-être sera éternel
+Ils tomberont dans l'oubli
+France, ô ma France très belle
+Pour toi je ferais bataille
+Je quitterai père et mère
+Sans espoir de les revoir jamais
+La-la-la-la, la, la, la, la, la, la
+La-la, la-la, la, la-la-la-la-la
+La-la-la-la, la, la, la, la, la, la
+La-la, la-la, la, la
+Si d'aventure la mort les refuse
+Ils reviendront jusqu'au ports
+Et ils boiront le Champagne qui fuse
+À la santé de leurs morts
+France, ô ma France très belle
+Pour toi je ferais bataille
+Je quitterai père et mère
+Sans espoir de les revoir jamais
+La-la-la-la, la, la, la, la, la, la
+La-la, la-la, la, la-la-la-la-la
+La-la-la-la, la, la, la, la, la, la
+La-la, la-la, la, la
 """
     
     st.markdown(marseillaise_text)
