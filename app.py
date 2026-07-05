@@ -476,21 +476,21 @@ with st.sidebar:
 close_sidebar_once_if_needed()
 
 # Display La Marseillaise if requested
-if st.session_state.get("show_marseillaise", False):
+if st.session_state.get("Les commandos", False):
     st.markdown("# Les commandos")
-    st.markdown("")
+    st.markdown("Les commandos")
     
     col1, col2 = st.columns([3, 1])
     with col1:
-        if st.button("Fermer", key="close_marseillaise"):
-            st.session_state.show_marseillaise = False
+        if st.button("Fermer", key="close_Les commandos"):
+            st.session_state["Les commandos"] = False
             st.rerun()
     with col2:
         st.markdown("[🎵 Écouter sur YouTube](https://youtu.be/SRl7AzeWwOo?si=uJLKGdbqfFhlW-Ii)")
     
     st.divider()
     
-    marseillaise_text = """
+    Les commandos_text = """
 ## 
 Les commandos partent pour l'aventure
 Soleil couchant les salue
@@ -500,6 +500,7 @@ France, ô ma France très belle
 Pour toi je ferais bataille
 Je quitterai père et mère
 Sans espoir de les revoir jamais
+
 La-la-la-la, la, la, la, la, la, la
 La-la, la-la, la, la-la-la-la-la
 La-la-la-la, la, la, la, la, la, la
