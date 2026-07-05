@@ -13,7 +13,6 @@
     "answer": 0,
     "explanation": "La couverture mentionne clairement 'Memento Militaire du rang'."
   },
-  
   {
     "id": "q003",
     "chapter": "Organisation",
@@ -539,7 +538,7 @@
     "question": "Quel risque tactique apparait avec une discipline radio faible ?",
     "options": [
       "Perte de coordination et confusion des ordres",
-      "Amelioration de la discr\u00e9tion",
+      "Amelioration de la discrétion",
       "Moins de besoins en batteries",
       "Augmentation de la precision du tir"
     ],
@@ -1762,5 +1761,369 @@
     ],
     "answer": 3,
     "explanation": "Reponse officielle (site Armee de Terre): Soldat."
+  },
+  {
+    "id": "nato001",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'A' ?",
+    "options": [
+      "Alpha",
+      "Alfa",
+      "Andy",
+      "Albert"
+    ],
+    "answer": 0,
+    "explanation": "La lettre A dans l'alphabet phonétique OTAN se dit 'Alpha'."
+  },
+  {
+    "id": "nato002",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'B' ?",
+    "options": [
+      "Beta",
+      "Bravo",
+      "Bobby",
+      "Benjamin"
+    ],
+    "answer": 1,
+    "explanation": "La lettre B dans l'alphabet phonétique OTAN se dit 'Bravo'."
+  },
+  {
+    "id": "nato003",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'C' ?",
+    "options": [
+      "Charley",
+      "Charlie",
+      "Catherine",
+      "Celine"
+    ],
+    "answer": 1,
+    "explanation": "La lettre C dans l'alphabet phonétique OTAN se dit 'Charlie'."
+  },
+  {
+    "id": "nato004",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'D' ?",
+    "options": [
+      "David",
+      "Delta",
+      "Dominique",
+      "Didier"
+    ],
+    "answer": 1,
+    "explanation": "La lettre D dans l'alphabet phonétique OTAN se dit 'Delta'."
+  },
+  {
+    "id": "nato005",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'E' ?",
+    "options": [
+      "Emile",
+      "Echo",
+      "Eric",
+      "Etienne"
+    ],
+    "answer": 1,
+    "explanation": "La lettre E dans l'alphabet phonétique OTAN se dit 'Echo'."
+  },
+  {
+    "id": "nato006",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'F' ?",
+    "options": [
+      "Francoise",
+      "Foxtrot",
+      "Francois",
+      "Frederic"
+    ],
+    "answer": 1,
+    "explanation": "La lettre F dans l'alphabet phonétique OTAN se dit 'Foxtrot'."
+  },
+  {
+    "id": "nato007",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'G' ?",
+    "options": [
+      "George",
+      "Golf",
+      "Gilbert",
+      "Gilles"
+    ],
+    "answer": 1,
+    "explanation": "La lettre G dans l'alphabet phonétique OTAN se dit 'Golf'."
+  },
+  {
+    "id": "nato008",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'H' ?",
+    "options": [
+      "Henry",
+      "Hotel",
+      "Henri",
+      "Helene"
+    ],
+    "answer": 1,
+    "explanation": "La lettre H dans l'alphabet phonétique OTAN se dit 'Hotel'."
+  },
+  {
+    "id": "nato009",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'I' ?",
+    "options": [
+      "Ignace",
+      "India",
+      "Isabelle",
+      "Ivan"
+    ],
+    "answer": 1,
+    "explanation": "La lettre I dans l'alphabet phonétique OTAN se dit 'India'."
+  },
+  {
+    "id": "nato010",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'J' ?",
+    "options": [
+      "Jacques",
+      "Juliet",
+      "Juliett",
+      "Jerome"
+    ],
+    "answer": 2,
+    "explanation": "La lettre J dans l'alphabet phonétique OTAN se dit 'Juliett'."
+  },
+  {
+    "id": "nato011",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'K' ?",
+    "options": [
+      "Kevin",
+      "Kilo",
+      "Kendall",
+      "Kenneth"
+    ],
+    "answer": 1,
+    "explanation": "La lettre K dans l'alphabet phonétique OTAN se dit 'Kilo'."
+  },
+  {
+    "id": "nato012",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'L' ?",
+    "options": [
+      "Leopold",
+      "Lima",
+      "Laurent",
+      "Lucien"
+    ],
+    "answer": 1,
+    "explanation": "La lettre L dans l'alphabet phonétique OTAN se dit 'Lima'."
+  },
+  {
+    "id": "nato013",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'M' ?",
+    "options": [
+      "Marcel",
+      "Mike",
+      "Maurice",
+      "Michel"
+    ],
+    "answer": 1,
+    "explanation": "La lettre M dans l'alphabet phonétique OTAN se dit 'Mike'."
+  },
+  {
+    "id": "nato014",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'N' ?",
+    "options": [
+      "Norbert",
+      "November",
+      "Nicolas",
+      "Nathaniel"
+    ],
+    "answer": 1,
+    "explanation": "La lettre N dans l'alphabet phonétique OTAN se dit 'November'."
+  },
+  {
+    "id": "nato015",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'O' ?",
+    "options": [
+      "Olivier",
+      "Oscar",
+      "Octave",
+      "Oswald"
+    ],
+    "answer": 1,
+    "explanation": "La lettre O dans l'alphabet phonétique OTAN se dit 'Oscar'."
+  },
+  {
+    "id": "nato016",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'P' ?",
+    "options": [
+      "Pierre",
+      "Papa",
+      "Patrick",
+      "Philippe"
+    ],
+    "answer": 1,
+    "explanation": "La lettre P dans l'alphabet phonétique OTAN se dit 'Papa'."
+  },
+  {
+    "id": "nato017",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'Q' ?",
+    "options": [
+      "Quentin",
+      "Quebec",
+      "Quincy",
+      "Quinn"
+    ],
+    "answer": 1,
+    "explanation": "La lettre Q dans l'alphabet phonétique OTAN se dit 'Quebec'."
+  },
+  {
+    "id": "nato018",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'R' ?",
+    "options": [
+      "Richard",
+      "Romeo",
+      "Robert",
+      "Raymond"
+    ],
+    "answer": 1,
+    "explanation": "La lettre R dans l'alphabet phonétique OTAN se dit 'Romeo'."
+  },
+  {
+    "id": "nato019",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'S' ?",
+    "options": [
+      "Samuel",
+      "Sierra",
+      "Stephane",
+      "Serge"
+    ],
+    "answer": 1,
+    "explanation": "La lettre S dans l'alphabet phonétique OTAN se dit 'Sierra'."
+  },
+  {
+    "id": "nato020",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'T' ?",
+    "options": [
+      "Theo",
+      "Tango",
+      "Thomas",
+      "Thierry"
+    ],
+    "answer": 1,
+    "explanation": "La lettre T dans l'alphabet phonétique OTAN se dit 'Tango'."
+  },
+  {
+    "id": "nato021",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'U' ?",
+    "options": [
+      "Urbain",
+      "Uniform",
+      "Ulrich",
+      "Ulysse"
+    ],
+    "answer": 1,
+    "explanation": "La lettre U dans l'alphabet phonétique OTAN se dit 'Uniform'."
+  },
+  {
+    "id": "nato022",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'V' ?",
+    "options": [
+      "Vincent",
+      "Victor",
+      "Valentin",
+      "Valerie"
+    ],
+    "answer": 1,
+    "explanation": "La lettre V dans l'alphabet phonétique OTAN se dit 'Victor'."
+  },
+  {
+    "id": "nato023",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'W' ?",
+    "options": [
+      "William",
+      "Whiskey",
+      "Walter",
+      "Werner"
+    ],
+    "answer": 1,
+    "explanation": "La lettre W dans l'alphabet phonétique OTAN se dit 'Whiskey'."
+  },
+  {
+    "id": "nato024",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'X' ?",
+    "options": [
+      "Xavier",
+      "X-ray",
+      "Xander",
+      "Xerxes"
+    ],
+    "answer": 1,
+    "explanation": "La lettre X dans l'alphabet phonétique OTAN se dit 'X-ray'."
+  },
+  {
+    "id": "nato025",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'Y' ?",
+    "options": [
+      "Yves",
+      "Yankee",
+      "Yvon",
+      "Yvette"
+    ],
+    "answer": 1,
+    "explanation": "La lettre Y dans l'alphabet phonétique OTAN se dit 'Yankee'."
+  },
+  {
+    "id": "nato026",
+    "chapter": "OTAN",
+    "difficulty": "facile",
+    "question": "Quel est le mot OTAN qui correspond à la lettre 'Z' ?",
+    "options": [
+      "Zacharie",
+      "Zulu",
+      "Zephyr",
+      "Ziggy"
+    ],
+    "answer": 1,
+    "explanation": "La lettre Z dans l'alphabet phonétique OTAN se dit 'Zulu'."
   }
 ]

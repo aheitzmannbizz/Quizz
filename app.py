@@ -26,6 +26,10 @@ def is_famas_question(q: dict) -> bool:
     return "famas" in haystack
 
 
+def is_nato_question(q: dict) -> bool:
+    return q.get("chapter") == "OTAN"
+
+
 def inject_theme() -> None:
     st.markdown(
         """
@@ -280,6 +284,7 @@ def prepare_quiz(
     amount: int,
     only_grades: bool = False,
     only_famas: bool = False,
+    only_nato: bool = False,
 ) -> list[dict]:
     selected = [
         q
@@ -288,6 +293,7 @@ def prepare_quiz(
         and q["difficulty"] in levels
         and (not only_grades or is_grade_question(q))
         and (not only_famas or is_famas_question(q))
+        and (not only_nato or is_nato_question(q))
     ]
 
     if not selected:
@@ -336,8 +342,9 @@ def start_quiz(
     amount: int,
     only_grades: bool = False,
     only_famas: bool = False,
+    only_nato: bool = False,
 ) -> None:
-    quiz = prepare_quiz(bank, chapters, levels, amount, only_grades=only_grades, only_famas=only_famas)
+    quiz = prepare_quiz(bank, chapters, levels, amount, only_grades=only_grades, only_famas=only_famas, only_nato=only_nato)
     reset_state()
     st.session_state.quiz = quiz
     st.session_state.collapse_sidebar_once = True
@@ -398,6 +405,11 @@ with st.sidebar:
         value=False,
         disabled=only_grade_questions,
     )
+    only_nato_questions = st.checkbox(
+        "Uniquement questions OTAN",
+        value=False,
+        disabled=only_grade_questions or only_famas_questions,
+    )
 
     effective_chapters = selected_chapters
     if only_grade_questions:
@@ -406,6 +418,9 @@ with st.sidebar:
     elif only_famas_questions:
         effective_chapters = all_chapters
         st.caption("Mode FAMAS: seules les questions liees au FAMAS seront utilisees.")
+    elif only_nato_questions:
+        effective_chapters = all_chapters
+        st.caption("Mode OTAN: seules les questions de l'alphabet phonetique OTAN seront utilisees.")
 
     available_count = sum(
         1
@@ -414,6 +429,7 @@ with st.sidebar:
         and q["difficulty"] in selected_levels
         and (not only_grade_questions or is_grade_question(q))
         and (not only_famas_questions or is_famas_question(q))
+        and (not only_nato_questions or is_nato_question(q))
     )
 
     if available_count == 0:
@@ -441,6 +457,7 @@ with st.sidebar:
             question_count,
             only_grades=only_grade_questions,
             only_famas=only_famas_questions,
+            only_nato=only_nato_questions,
         )
         st.rerun()
 
