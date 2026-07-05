@@ -469,10 +469,6 @@ with st.sidebar:
         st.session_state.show_ceux_liban = not st.session_state.get("show_ceux_liban", False)
         st.rerun()
     
-    if st.button("🔫 Le Chant des partisans", use_container_width=True):
-        st.session_state.show_chant_partisans = not st.session_state.get("show_chant_partisans", False)
-        st.rerun()
-
 close_sidebar_once_if_needed()
 
 # Display Les commandos if requested
