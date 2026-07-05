@@ -462,7 +462,7 @@ with st.sidebar:
         st.rerun()
 
     if st.button("Les commandos", use_container_width=True):
-        st.session_state.show_marseillaise = not st.session_state.get("show_marseillaise", False)
+        st.session_state.show_commandos = not st.session_state.get("show_commandos", False)
         st.rerun()
     
     if st.button("🎺 Chant du départ", use_container_width=True):
@@ -475,15 +475,15 @@ with st.sidebar:
 
 close_sidebar_once_if_needed()
 
-# Display La Marseillaise if requested
-if st.session_state.get("Les commandos", False):
+# Display Les commandos if requested
+if st.session_state.get("show_commandos", False):
     st.markdown("# Les commandos")
     st.markdown("Les commandos")
     
     col1, col2 = st.columns([3, 1])
     with col1:
         if st.button("Fermer", key="close_Les commandos"):
-            st.session_state["Les commandos"] = False
+            st.session_state.show_commandos = False
             st.rerun()
     with col2:
         st.markdown("[🎵 Écouter sur YouTube](https://youtu.be/SRl7AzeWwOo?si=uJLKGdbqfFhlW-Ii)")
@@ -531,7 +531,7 @@ La-la-la-la, la, la, la, la, la, la
 La-la, la-la, la, la
 """
     
-    st.markdown(marseillaise_text)
+    st.markdown(Lescommandos_text)
     st.stop()
 
 # Display Chant du départ if requested
