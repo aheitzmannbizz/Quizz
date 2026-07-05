@@ -490,7 +490,7 @@ if st.session_state.get("Les commandos", False):
     
     st.divider()
     
-    Les commandos_text = """
+    Lescommandos_text = """
 ## 
 Les commandos partent pour l'aventure
 Soleil couchant les salue
