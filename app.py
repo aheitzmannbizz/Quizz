@@ -1,10 +1,13 @@
 import copy
+from io import BytesIO
 import json
 import random
 from pathlib import Path
+from urllib.request import urlopen
 
 import streamlit as st
 import streamlit.components.v1 as components
+from PIL import Image
 
 
 QUESTIONS_PATH = Path("data/questions_fr.json")
@@ -275,6 +278,69 @@ def build_detailed_explanation(correct: bool, user_answer: str, good_answer: str
 def load_question_bank() -> list[dict]:
     with QUESTIONS_PATH.open("r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_question_image(question: dict) -> Image.Image | None:
+    image_path = question.get("image")
+    if not image_path:
+        return None
+
+    try:
+        if str(image_path).startswith("http://") or str(image_path).startswith("https://"):
+            with urlopen(str(image_path)) as response:
+                image = Image.open(BytesIO(response.read()))
+        else:
+            image_file = Path(str(image_path))
+            if not image_file.exists():
+                return None
+            image = Image.open(image_file)
+
+        image.load()
+    except Exception:
+        return None
+
+    crop = question.get("image_crop")
+    if not isinstance(crop, dict):
+        return image
+
+    left = crop.get("left", 0)
+    top = crop.get("top", 0)
+    right = crop.get("right", image.width)
+    bottom = crop.get("bottom", image.height)
+
+    if all(isinstance(value, (int, float)) for value in (left, top, right, bottom)):
+        if all(0 <= value <= 1 for value in (left, top, right, bottom)):
+            left = int(left * image.width)
+            top = int(top * image.height)
+            right = int(right * image.width)
+            bottom = int(bottom * image.height)
+
+        left = max(0, min(int(left), image.width))
+        top = max(0, min(int(top), image.height))
+        right = max(left + 1, min(int(right), image.width))
+        bottom = max(top + 1, min(int(bottom), image.height))
+        return image.crop((left, top, right, bottom))
+
+    return image
+
+
+def render_question_image(question: dict) -> None:
+    image = load_question_image(question)
+    if image is not None:
+        st.image(image, caption="Insigne a identifier", use_container_width=True)
+        return
+
+    image_path = question.get("image")
+    if not image_path:
+        return
+
+    if str(image_path).startswith("http://") or str(image_path).startswith("https://"):
+        st.image(str(image_path), caption="Insigne a identifier", use_container_width=True)
+        return
+
+    image_file = Path(str(image_path))
+    if image_file.exists():
+        st.image(str(image_file), caption="Insigne a identifier", use_container_width=True)
 
 
 def prepare_quiz(
@@ -694,14 +760,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-image_path = q.get("image")
-if image_path:
-    if str(image_path).startswith("http://") or str(image_path).startswith("https://"):
-        st.image(str(image_path), caption="Insigne a identifier", use_container_width=True)
-    else:
-        p = Path(image_path)
-        if p.exists():
-            st.image(str(p), caption="Insigne a identifier", use_container_width=True)
+render_question_image(q)
 
 st.session_state.chosen_option = st.radio(
     "Choisissez votre reponse:",

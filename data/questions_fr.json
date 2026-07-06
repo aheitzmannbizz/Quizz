@@ -1375,6 +1375,342 @@
     "explanation": "Le schema indique l'appuie-joue mobile, element lie au changement du cote d'ejection."
   },
   {
+    "id": "q101",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 1 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Bague d'enfoncement de grenade",
+      "Guidon",
+      "Levier d'armement",
+      "Chargeur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 1 correspond a la bague d'enfoncement de grenade."
+  },
+  {
+    "id": "q102",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 2 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Guidon",
+      "Oeilletons",
+      "Talon de crosse",
+      "Poignee-pistolet"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 2 designe le guidon."
+  },
+  {
+    "id": "q103",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 3 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Alidade de tir vertical",
+      "Ensemble mobile",
+      "Chargeur",
+      "Bec de crosse"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 3 correspond a l'alidade de tir vertical."
+  },
+  {
+    "id": "q104",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 4 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Levier d'armement",
+      "Crochet de chargeur",
+      "Fut",
+      "Surete selecteur de tir"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 4 correspond au levier d'armement."
+  },
+  {
+    "id": "q105",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 5 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Poignee garde-main",
+      "Arcade de pontet",
+      "Talon de crosse",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 5 correspond a la poignee garde-main."
+  },
+  {
+    "id": "q106",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 6 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Goupille d'assemblage de la poignee garde-main",
+      "Goupille d'assemblage de la crosse",
+      "Ensemble mobile",
+      "Detente"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 6 correspond a la goupille d'assemblage de la poignee garde-main."
+  },
+  {
+    "id": "q107",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 7 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Oeilletons",
+      "Guidon",
+      "Chargeur",
+      "Poignee-pistolet"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 7 correspond aux oeilletons."
+  },
+  {
+    "id": "q108",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 8 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Goupille d'assemblage de la crosse",
+      "Goupille d'assemblage de la poignee garde-main",
+      "Bec de crosse",
+      "Levier d'armement"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 8 correspond a la goupille d'assemblage de la crosse."
+  },
+  {
+    "id": "q109",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 9 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Appui-joue",
+      "Talon de crosse",
+      "Poignee garde-main",
+      "Arcade de pontet"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 9 correspond a l'appui-joue."
+  },
+  {
+    "id": "q110",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 10 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Ensemble mobile",
+      "Boitier de mecanismes",
+      "Chargeur",
+      "Fut"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 10 correspond a l'ensemble mobile."
+  },
+  {
+    "id": "q111",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 11 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Talon de crosse",
+      "Bec de crosse",
+      "Guidon",
+      "Chargeur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 11 correspond au talon de crosse."
+  },
+  {
+    "id": "q112",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 12 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Bec de crosse",
+      "Talon de crosse",
+      "Oeilletons",
+      "Detente"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 12 correspond au bec de crosse."
+  },
+  {
+    "id": "q113",
+    "chapter": "ISTC - Tir",
+    "difficulty": "difficile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 13 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Boitier de mecanismes",
+      "Ensemble mobile",
+      "Fut",
+      "Poignee garde-main"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 13 correspond au boitier de mecanismes."
+  },
+  {
+    "id": "q114",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 14 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Chargeur",
+      "Crochet de chargeur",
+      "Boitier de mecanismes",
+      "Arcade de pontet"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 14 correspond au chargeur."
+  },
+  {
+    "id": "q115",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 15 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Crochet de chargeur",
+      "Chargeur",
+      "Detente",
+      "Surete selecteur de tir"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 15 correspond au crochet de chargeur."
+  },
+  {
+    "id": "q116",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 16 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Poignee-pistolet",
+      "Poignee garde-main",
+      "Appui-joue",
+      "Bague d'enfoncement de grenade"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 16 correspond a la poignee-pistolet."
+  },
+  {
+    "id": "q117",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 17 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Detente",
+      "Crochet de chargeur",
+      "Guidon",
+      "Talon de crosse"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 17 correspond a la detente."
+  },
+  {
+    "id": "q118",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 18 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Surete selecteur de tir",
+      "Arcade de pontet",
+      "Ensemble mobile",
+      "Bec de crosse"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 18 correspond a la surete selecteur de tir."
+  },
+  {
+    "id": "q119",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 19 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Arcade de pontet",
+      "Detente",
+      "Fut",
+      "Chargeur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 19 correspond a l'arcade de pontet."
+  },
+  {
+    "id": "q120",
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 20 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Fut",
+      "Poignee garde-main",
+      "Boitier de mecanismes",
+      "Appui-joue"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 20 correspond au fut."
+  },
+  {
+    "id": "q121",
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (parties visibles): quelle piece correspond au numero 21 ?",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
+    "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
+    "options": [
+      "Branches de bipied",
+      "Chargeur",
+      "Talon de crosse",
+      "Levier d'armement"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema des parties visibles du FAMAS, le numero 21 correspond aux branches de bipied."
+  },
+  {
     "id": "gq001",
     "chapter": "Grades",
     "difficulty": "difficile",
