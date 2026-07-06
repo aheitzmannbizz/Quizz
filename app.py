@@ -468,6 +468,10 @@ with st.sidebar:
     if st.button("🎺 Ceux du Liban", use_container_width=True):
         st.session_state.show_ceux_liban = not st.session_state.get("show_ceux_liban", False)
         st.rerun()
+
+    if st.button("🎺 Chant pas de gymnastique", use_container_width=True):
+        st.session_state.show_chant_pas_gym = not st.session_state.get("show_chant_pas_gym", False)
+        st.rerun()
     
 close_sidebar_once_if_needed()
 
@@ -569,25 +573,43 @@ Pour que sous un ciel bas et noir
 """
     
     st.markdown(ceux_liban_text)
-    st.markdown(
-        """
-        <section class="question-box">
-            <div class="question-meta">Chant pas gymastique</div>
-            <p style="margin: 0; white-space: pre-line; font-size: 1rem; color: #1d2119;">
+    st.stop()
+
+# Display Chant pas de gymnastique if requested
+if st.session_state.get("show_chant_pas_gym", False):
+    st.markdown("# 🎺 Chant pas de gymnastique")
+    st.markdown("*Chant militaire* ")
+
+    col1, col2 = st.columns([3, 1])
+    with col1:
+        if st.button("Fermer", key="close_chant_pas_gym"):
+            st.session_state.show_chant_pas_gym = False
+            st.rerun()
+    with col2:
+        st.markdown("[🎵 Écouter sur YouTube](https://www.youtube.com/results?search_query=chant+militaire+reservistes)")
+
+    st.divider()
+
+    chant_pas_gym_text = """
 1-2-3-4
 Réservistes, fiers de servir,
+
 Le cœur vaillant, prêts à bondir,
+
 Plus loin, plus haut, sans faiblir,
+
 Au-delà du possible, sans faillir.
+
 Nous sommes les béliers, sans pareil,
+
 Le corps uni, l'âme en éveil,
+
 Face au danger, sans un sommeil,
+
 Jusqu'au bout, jusqu'au réveil.
-            </p>
-        </section>
-        """,
-        unsafe_allow_html=True,
-    )
+"""
+
+    st.markdown(chant_pas_gym_text)
     st.stop()
 
 if not st.session_state.quiz:
