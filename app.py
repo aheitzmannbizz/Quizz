@@ -461,7 +461,7 @@ with st.sidebar:
         )
         st.rerun()
 
-    if st.button("Les commandos", use_container_width=True):
+    if st.button(" 🎺 Les commandos", use_container_width=True):
         st.session_state.show_commandos = not st.session_state.get("show_commandos", False)
         st.rerun()
     
