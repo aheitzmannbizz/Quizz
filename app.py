@@ -566,9 +566,14 @@ Sur nous des orages d'acier,
 Sur terre se sont déchaînés,
 Pour que sous un ciel bas et noir
 À jamais meure tout espoir.
-
-## Chant pas gymastique
-
+"""
+    
+    st.markdown(ceux_liban_text)
+    st.markdown(
+        """
+        <section class="question-box">
+            <div class="question-meta">Chant pas gymastique</div>
+            <p style="margin: 0; white-space: pre-line; font-size: 1rem; color: #1d2119;">
 1-2-3-4
 Réservistes, fiers de servir,
 Le cœur vaillant, prêts à bondir,
@@ -578,9 +583,11 @@ Nous sommes les béliers, sans pareil,
 Le corps uni, l'âme en éveil,
 Face au danger, sans un sommeil,
 Jusqu'au bout, jusqu'au réveil.
-"""
-    
-    st.markdown(ceux_liban_text)
+            </p>
+        </section>
+        """,
+        unsafe_allow_html=True,
+    )
     st.stop()
 
 if not st.session_state.quiz:
