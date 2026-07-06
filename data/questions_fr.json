@@ -1,19 +1,5 @@
 [
   {
-    "id": "q001",
-    "chapter": "Organisation",
-    "difficulty": "facile",
-    "question": "Quel est le titre du livret utilise pour ce quiz ?",
-    "options": [
-      "Guide du reserviste naval",
-      "Memento Militaire du rang",
-      "Manuel de topographie alpine",
-      "Carnet de campagne IST-R"
-    ],
-    "answer": 0,
-    "explanation": "La couverture mentionne clairement 'Memento Militaire du rang'."
-  },
-  {
     "id": "q003",
     "chapter": "Organisation",
     "difficulty": "moyen",
