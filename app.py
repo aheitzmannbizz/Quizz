@@ -491,24 +491,29 @@ if st.session_state.get("show_commandos", False):
     st.divider()
     
     Lescommandos_text = """
+ En 1948, trente commandos du 11e Choc sont sélectionnés pour participer à des manœuvres dans le Tyrol, 
+ alors zone d’occupation française. 
+ Les paroles sont alors écrites par le sergent Vincent Mayoli du 11e Choc et la musique est composée par son cousin, 
+ le maréchal des logis Paul Pergola du 35e RAP.
+
+Le chant est publié à la fin des années cinquante dans le Carnet de chants des Cadets de France et
+ enregistré par les parachutistes du 3e RPIMa (Les casquettes sont là, Philips, Médiuem B 76.480 R, 1958).
+Il est largement repris dans toute l’armée.
+
 1. Les commandos partent pour l'aventure
 Soleil couchant les salue, 2.1.2
-Chez l'ennemi, la nuit sera très dure
+Chez l'ennemi, la nuit sera très dure 
 Pour ceux qui pillent et qui tuent. 2.1.2
 
-## Refrain
-
+Refrain
 France, ô ma France très belle 2
 Pour toi je ferai bataille, 2
 Je quitterai père et mère 2
 Sans espoir de les revoir jamais,
-
+La la la la la la la la la la, 2
 La la la la la la la la la la,
- 2
-La la la la la la la la la la,
-La la la la la la la la la la, 
-2
-La la la la la la. 2.1.2
+La la la la la la la la la la, 2
+La la la la la la. 2.1.2 
 
 2. Loin du biffin qui toujours les envie
 Un Dakota les dépose ; 2.1.2
@@ -524,6 +529,8 @@ Ils tomberont dans l'oubli. 2.1.2
 Ils rentreront dans leur port, 2.1.2
 Et ils boiront le champagne qui fuse
 À la santé de leurs morts. 2.1.2
+
+
 """
     
     st.markdown(Lescommandos_text)
