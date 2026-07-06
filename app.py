@@ -387,7 +387,7 @@ all_chapters = sorted({q["chapter"] for q in bank})
 all_levels = ["facile", "moyen", "difficile"]
 
 with st.sidebar:
-    st.header("Configuration tactique")
+    st.header("Configuration")
     selected_chapters = st.multiselect(
         "Chapitres",
         all_chapters,
