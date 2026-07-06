@@ -1216,7 +1216,7 @@
     "id": "q090",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece correspond au numero 6 ?",
+    "question": "FAMAS : quelle piece correspond au numero 6 ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
@@ -1232,7 +1232,7 @@
     "id": "q091",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece correspond au numero 8 ?",
+    "question": "FAMAS: quelle piece correspond au numero 8 ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
@@ -1248,7 +1248,7 @@
     "id": "q092",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece correspond au numero 9 ?",
+    "question": "FAMAS : quelle piece correspond au numero 9 ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
@@ -1264,7 +1264,7 @@
     "id": "q093",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece correspond au numero 10 ?",
+    "question": "FAMAS : quelle piece correspond au numero 10 ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
@@ -1280,7 +1280,7 @@
     "id": "q094",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece correspond au numero 11 ?",
+    "question": "FAMAS : quelle piece correspond au numero 11 ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
@@ -1296,7 +1296,7 @@
     "id": "q095",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece correspond au numero 12 ?",
+    "question": "FAMAS : quelle piece correspond au numero 12 ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
@@ -1312,7 +1312,7 @@
     "id": "q096",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece correspond au numero 2 ?",
+    "question": "FAMAS : quelle piece correspond au numero 2 ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
@@ -1376,7 +1376,7 @@
     "id": "q100",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (avec schema): quelle piece est specifique au confort de tir droitier/gaucher ?",
+    "question": "FAMAS : quelle piece est specifique au confort de tir droitier/gaucher ?",
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-F1_parts_assembled.svg",
     "source": "https://fr.wikipedia.org/wiki/FAMAS",
     "options": [
