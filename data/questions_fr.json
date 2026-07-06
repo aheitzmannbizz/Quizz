@@ -1602,7 +1602,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 1 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Manchon cache-flammes",
@@ -1618,7 +1618,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 2 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Coulisseau de tir de nuit",
@@ -1634,7 +1634,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 3 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Guidon",
@@ -1650,7 +1650,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 4 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Levier d'armement",
@@ -1666,7 +1666,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 5 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Tige guide",
@@ -1682,7 +1682,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 6 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Tube enveloppe",
@@ -1698,7 +1698,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 7 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Oeilleton de precision",
@@ -1714,7 +1714,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 8 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Oeilleton de cadrage",
@@ -1730,7 +1730,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 9 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Tube de recuperateur",
@@ -1746,7 +1746,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 10 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Logement et goupille d'assemblage de boitier de mecanismes",
@@ -1762,7 +1762,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 11 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Poussoir de crochet de chargeur",
@@ -1778,7 +1778,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 12 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Poignee-pistolet",
@@ -1794,7 +1794,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 13 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Couvercle de poignee-pistolet",
@@ -1810,7 +1810,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 14 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Queue de detente",
@@ -1826,7 +1826,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 15 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Surete selecteur de tir",
@@ -1842,7 +1842,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 16 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Arcade de pontet",
@@ -1858,7 +1858,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 17 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Support de guidon",
@@ -1874,7 +1874,7 @@
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
     "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 18 ?",
-    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "image": "assets/famas/corps_du_fusil_cropped_v3.jpg",
     "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
     "options": [
       "Bague d'enfoncement de grenade",
