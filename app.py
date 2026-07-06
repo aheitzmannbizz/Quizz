@@ -566,6 +566,18 @@ Sur nous des orages d'acier,
 Sur terre se sont déchaînés,
 Pour que sous un ciel bas et noir
 À jamais meure tout espoir.
+
+## Chant pas gymastique
+
+1-2-3-4
+Réservistes, fiers de servir,
+Le cœur vaillant, prêts à bondir,
+Plus loin, plus haut, sans faiblir,
+Au-delà du possible, sans faillir.
+Nous sommes les béliers, sans pareil,
+Le corps uni, l'âme en éveil,
+Face au danger, sans un sommeil,
+Jusqu'au bout, jusqu'au réveil.
 """
     
     st.markdown(ceux_liban_text)
