@@ -502,9 +502,12 @@ France, ô ma France très belle 2
 Pour toi je ferai bataille, 2
 Je quitterai père et mère 2
 Sans espoir de les revoir jamais,
-La la la la la la la la la la, 2
+
 La la la la la la la la la la,
-La la la la la la la la la la, 2
+ 2
+La la la la la la la la la la,
+La la la la la la la la la la, 
+2
 La la la la la la. 2.1.2
 
 2. Loin du biffin qui toujours les envie
