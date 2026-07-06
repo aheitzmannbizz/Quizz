@@ -239,9 +239,9 @@ def render_hero(total_questions: int, done_questions: int, score: int) -> None:
     st.markdown(
         f"""
         <section class="hero">
-            <div class="hero-kicker">Instruction et preparation</div>
-            <h1 class="hero-title">Quiz Memento Militaire du rang</h1>
-            <p class="hero-sub">Entrainement progressif en francais, inspire du contenu du livret.</p>
+            <div class="hero-kicker"></div>
+            <h1 class="hero-title">Quiz</h1>
+            <p class="hero-sub"></p>
             <div class="status-strip">
                 <div class="status-card">
                     <div class="status-label">Questions traitees</div>
