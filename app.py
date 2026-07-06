@@ -552,6 +552,31 @@ if st.session_state.get("show_ceux_liban", False):
     st.divider()
     
     ceux_liban_text = """
+**Exemple emblématique de la vitalité du répertoire militaire français, ce chant est créé en école puis
+s’est largement diffusé dans la troupe. Il est écrit fin 1983 au sein de la promotion EOR amalgamée (la
+structure de l’époque) entre Saint-Cyriens de la promotion Lieutenant-Colonel Gaucher, élèves-
+officiers de réserve et Polytechniciens. La promotion prend le nom de Ceux du Liban en hommage aux 
+victimes de l’attentat du Drakkar survenu en octobre.**
+
+**L’auteur est l’EOA Christophe de Lajudie, l’élève chant de la promotion. Il témoigne en décembre 
+2020 :**
+
+**« Le chef de bataillon Falzone, OSA du bataillon, me convoqua et me remit une liasse de partitions
+composées pour un chant de promotion par un EOR d’une précédente promotion (la promotion du 
+Guesclin…), compositeur de son état, lequel avait composé plusieurs partitions et avait laissé le “rab” au
+bataillon. J’en ai déchiffré une laborieusement, j’ai écrit des paroles, on s’est mis à quelques-uns dans un 
+“peigne” un soir pour répéter et bricoler une deuxième voix (une bête harmonisation à la tierce), et c’est
+devenu le chant de la promotion. Le chant a eu un succès certain, on nous l’a souvent redemandé et,
+quelques années après, j’ai eu la surprise de voir dans un régiment, une compagnie se rendre au pas 
+cadencé à l’ordinaire en chantant ce chant ».**
+
+**Dans la tradition orale, il est exceptionnel de retrouver les circonstances de création d’un chant, car 
+les auteurs ne se préoccupent pas de postérité. Ceux du Liban n’est pas enregistré par la promotion,
+mais par les parachutistes du 3e RPIMa en 1990 (CD, Dimupro, DMP 9001 C). Ils l’avaient donc appris 
+par tradition orale. Il est publié dans un carnet de chants du 2e Hussards quelques années plus tard.**
+
+**Chant :**
+
 1. Dans la boue, les sillons,
 Sous le ciel gris nous marchons,
 Malgré la fatigue et la pluie,
@@ -561,7 +586,7 @@ Que pour nous gronde le canon,
 Si demain il nous appelait,
 Nous partirions sans un regret.
 
-## Refrain
+Refrain
 
 La France pleure ses enfants
 Tombés là-bas au Levant,
