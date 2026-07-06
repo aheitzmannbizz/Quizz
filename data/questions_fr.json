@@ -1599,6 +1599,838 @@
     "explanation": "Sur le schema des parties visibles du FAMAS, le numero 21 correspond aux branches de bipied."
   },
   {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 1 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon",
+      "Levier d'armement"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 1 correspond a manchon cache-flammes.",
+    "id": "q122"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 2 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Coulisseau de tir de nuit",
+      "Manchon cache-flammes",
+      "Guidon",
+      "Levier d'armement"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 2 correspond a coulisseau de tir de nuit.",
+    "id": "q123"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 3 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Guidon",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Levier d'armement"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 3 correspond a guidon.",
+    "id": "q124"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 4 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Levier d'armement",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 4 correspond a levier d'armement.",
+    "id": "q125"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 5 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Tige guide",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 5 correspond a tige guide.",
+    "id": "q126"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 6 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Tube enveloppe",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 6 correspond a tube enveloppe.",
+    "id": "q127"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 7 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Oeilleton de precision",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 7 correspond a oeilleton de precision.",
+    "id": "q128"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 8 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Oeilleton de cadrage",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 8 correspond a oeilleton de cadrage.",
+    "id": "q129"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 9 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Tube de recuperateur",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 9 correspond a tube de recuperateur.",
+    "id": "q130"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 10 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Logement et goupille d'assemblage de boitier de mecanismes",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 10 correspond a logement et goupille d'assemblage de boitier de mecanismes.",
+    "id": "q131"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 11 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Poussoir de crochet de chargeur",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 11 correspond a poussoir de crochet de chargeur.",
+    "id": "q132"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 12 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Poignee-pistolet",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 12 correspond a poignee-pistolet.",
+    "id": "q133"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 13 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Couvercle de poignee-pistolet",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 13 correspond a couvercle de poignee-pistolet.",
+    "id": "q134"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 14 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Queue de detente",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 14 correspond a queue de detente.",
+    "id": "q135"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 15 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Surete selecteur de tir",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 15 correspond a surete selecteur de tir.",
+    "id": "q136"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 16 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Arcade de pontet",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 16 correspond a arcade de pontet.",
+    "id": "q137"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 17 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Support de guidon",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 17 correspond a support de guidon.",
+    "id": "q138"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: corps du fusil): quelle piece correspond au numero 18 ?",
+    "image": "assets/famas/corps_du_fusil_cropped.jpg",
+    "source": "Schema sous-ensemble: le corps du fusil (AV.FA.1A) fourni par l'utilisateur",
+    "options": [
+      "Bague d'enfoncement de grenade",
+      "Manchon cache-flammes",
+      "Coulisseau de tir de nuit",
+      "Guidon"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble corps du fusil, le numero 18 correspond a bague d'enfoncement de grenade.",
+    "id": "q139"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 1 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Amortisseur",
+      "Talon de crosse"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 1 correspond a fenetre d'ejection.",
+    "id": "q140"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 2 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Appui-joue",
+      "Fenetre d'ejection",
+      "Amortisseur",
+      "Talon de crosse"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 2 correspond a appui-joue.",
+    "id": "q141"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 3 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Amortisseur",
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Talon de crosse"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 3 correspond a amortisseur.",
+    "id": "q142"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 4 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Talon de crosse",
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Amortisseur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 4 correspond a talon de crosse.",
+    "id": "q143"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 5 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Bec de crosse",
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Amortisseur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 5 correspond a bec de crosse.",
+    "id": "q144"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 6 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Plaque de couche",
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Amortisseur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 6 correspond a plaque de couche.",
+    "id": "q145"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 7 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Barrette de crosse",
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Amortisseur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 7 correspond a barrette de crosse.",
+    "id": "q146"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 8 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Logement de la goupille d'assemblage",
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Amortisseur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 8 correspond a logement de la goupille d'assemblage.",
+    "id": "q147"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: la crosse): quelle piece correspond au numero 9 ?",
+    "image": "assets/famas/crosse_cropped.jpg",
+    "source": "Schema sous-ensemble: la crosse (AV.FA.1B) fourni par l'utilisateur",
+    "options": [
+      "Goupille d'assemblage",
+      "Fenetre d'ejection",
+      "Appui-joue",
+      "Amortisseur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la crosse, le numero 9 correspond a goupille d'assemblage.",
+    "id": "q148"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 1 ?",
+    "image": "assets/famas/poignee_garde_main_cropped.jpg",
+    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
+    "options": [
+      "Branche de bipied",
+      "Tampon de caoutchouc",
+      "Axe de fixation de bretelle",
+      "Alidade de tir vertical"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 1 correspond a branche de bipied.",
+    "id": "q149"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 2 ?",
+    "image": "assets/famas/poignee_garde_main_cropped.jpg",
+    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
+    "options": [
+      "Tampon de caoutchouc",
+      "Branche de bipied",
+      "Axe de fixation de bretelle",
+      "Alidade de tir vertical"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 2 correspond a tampon de caoutchouc.",
+    "id": "q150"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 3 ?",
+    "image": "assets/famas/poignee_garde_main_cropped.jpg",
+    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
+    "options": [
+      "Axe de fixation de bretelle",
+      "Branche de bipied",
+      "Tampon de caoutchouc",
+      "Alidade de tir vertical"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 3 correspond a axe de fixation de bretelle.",
+    "id": "q151"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 4 ?",
+    "image": "assets/famas/poignee_garde_main_cropped.jpg",
+    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
+    "options": [
+      "Alidade de tir vertical",
+      "Branche de bipied",
+      "Tampon de caoutchouc",
+      "Axe de fixation de bretelle"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 4 correspond a alidade de tir vertical.",
+    "id": "q152"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 5 ?",
+    "image": "assets/famas/poignee_garde_main_cropped.jpg",
+    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
+    "options": [
+      "Etrier de poignee garde-main",
+      "Branche de bipied",
+      "Tampon de caoutchouc",
+      "Axe de fixation de bretelle"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 5 correspond a etrier de poignee garde-main.",
+    "id": "q153"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 6 ?",
+    "image": "assets/famas/poignee_garde_main_cropped.jpg",
+    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
+    "options": [
+      "Logement de la goupille d'assemblage",
+      "Branche de bipied",
+      "Tampon de caoutchouc",
+      "Axe de fixation de bretelle"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 6 correspond a logement de la goupille d'assemblage.",
+    "id": "q154"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 1 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur",
+      "Obturateur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 1 correspond a masse additionnelle.",
+    "id": "q155"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 2 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Logement de la goupille d'assemblage",
+      "Masse additionnelle",
+      "Percuteur",
+      "Obturateur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 2 correspond a logement de la goupille d'assemblage.",
+    "id": "q156"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 3 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Percuteur",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Obturateur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 3 correspond a percuteur.",
+    "id": "q157"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 4 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Obturateur",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 4 correspond a obturateur.",
+    "id": "q158"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 5 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Canal du percuteur",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 5 correspond a canal du percuteur.",
+    "id": "q159"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 6 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Ejecteur",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 6 correspond a ejecteur.",
+    "id": "q160"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 7 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Extracteur",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 7 correspond a extracteur.",
+    "id": "q161"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 8 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Bras inferieur",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 8 correspond a bras inferieur.",
+    "id": "q162"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 9 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Levier amplificateur d'inertie",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 9 correspond a levier amplificateur d'inertie.",
+    "id": "q163"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 10 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Bras superieur",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 10 correspond a bras superieur.",
+    "id": "q164"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 11 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Culasse",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 11 correspond a culasse.",
+    "id": "q165"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "moyen",
+    "question": "FAMAS (sous-ensemble: l'ensemble mobile): quelle piece correspond au numero 12 ?",
+    "image": "assets/famas/ensemble_mobile_cropped.jpg",
+    "source": "Schema sous-ensemble: l'ensemble mobile (AV.FA.1D) fourni par l'utilisateur",
+    "options": [
+      "Doigt de maintien",
+      "Masse additionnelle",
+      "Logement de la goupille d'assemblage",
+      "Percuteur"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble l'ensemble mobile, le numero 12 correspond a doigt de maintien.",
+    "id": "q166"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: le boitier de mecanismes): quelle piece correspond au numero 1 ?",
+    "image": "assets/famas/boitier_mecanismes_cropped.jpg",
+    "source": "Schema sous-ensemble: le boitier de mecanismes (AV.FA.1E) fourni par l'utilisateur",
+    "options": [
+      "Goupille",
+      "Logement de la goupille d'assemblage",
+      "Gachette automatique",
+      "Entraineur de gachette"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble le boitier de mecanismes, le numero 1 correspond a goupille.",
+    "id": "q167"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: le boitier de mecanismes): quelle piece correspond au numero 2 ?",
+    "image": "assets/famas/boitier_mecanismes_cropped.jpg",
+    "source": "Schema sous-ensemble: le boitier de mecanismes (AV.FA.1E) fourni par l'utilisateur",
+    "options": [
+      "Logement de la goupille d'assemblage",
+      "Goupille",
+      "Gachette automatique",
+      "Entraineur de gachette"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble le boitier de mecanismes, le numero 2 correspond a logement de la goupille d'assemblage.",
+    "id": "q168"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: le boitier de mecanismes): quelle piece correspond au numero 3 ?",
+    "image": "assets/famas/boitier_mecanismes_cropped.jpg",
+    "source": "Schema sous-ensemble: le boitier de mecanismes (AV.FA.1E) fourni par l'utilisateur",
+    "options": [
+      "Gachette automatique",
+      "Goupille",
+      "Logement de la goupille d'assemblage",
+      "Entraineur de gachette"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble le boitier de mecanismes, le numero 3 correspond a gachette automatique.",
+    "id": "q169"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: le boitier de mecanismes): quelle piece correspond au numero 4 ?",
+    "image": "assets/famas/boitier_mecanismes_cropped.jpg",
+    "source": "Schema sous-ensemble: le boitier de mecanismes (AV.FA.1E) fourni par l'utilisateur",
+    "options": [
+      "Entraineur de gachette",
+      "Goupille",
+      "Logement de la goupille d'assemblage",
+      "Gachette automatique"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble le boitier de mecanismes, le numero 4 correspond a entraineur de gachette.",
+    "id": "q170"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: le boitier de mecanismes): quelle piece correspond au numero 5 ?",
+    "image": "assets/famas/boitier_mecanismes_cropped.jpg",
+    "source": "Schema sous-ensemble: le boitier de mecanismes (AV.FA.1E) fourni par l'utilisateur",
+    "options": [
+      "Marteau",
+      "Goupille",
+      "Logement de la goupille d'assemblage",
+      "Gachette automatique"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble le boitier de mecanismes, le numero 5 correspond a marteau.",
+    "id": "q171"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: le boitier de mecanismes): quelle piece correspond au numero 6 ?",
+    "image": "assets/famas/boitier_mecanismes_cropped.jpg",
+    "source": "Schema sous-ensemble: le boitier de mecanismes (AV.FA.1E) fourni par l'utilisateur",
+    "options": [
+      "Ressort de percussion",
+      "Goupille",
+      "Logement de la goupille d'assemblage",
+      "Gachette automatique"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble le boitier de mecanismes, le numero 6 correspond a ressort de percussion.",
+    "id": "q172"
+  },
+  {
+    "chapter": "ISTC - Tir",
+    "difficulty": "facile",
+    "question": "FAMAS (sous-ensemble: le boitier de mecanismes): quelle piece correspond au numero 7 ?",
+    "image": "assets/famas/boitier_mecanismes_cropped.jpg",
+    "source": "Schema sous-ensemble: le boitier de mecanismes (AV.FA.1E) fourni par l'utilisateur",
+    "options": [
+      "Boitier",
+      "Goupille",
+      "Logement de la goupille d'assemblage",
+      "Gachette automatique"
+    ],
+    "answer": 0,
+    "explanation": "Sur le schema du sous-ensemble le boitier de mecanismes, le numero 7 correspond a boitier.",
+    "id": "q173"
+  },
+  {
     "id": "gq001",
     "chapter": "Grades",
     "difficulty": "difficile",
