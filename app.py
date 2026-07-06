@@ -578,7 +578,7 @@ Pour que sous un ciel bas et noir
 # Display Chant pas de gymnastique if requested
 if st.session_state.get("show_chant_pas_gym", False):
     st.markdown("# 🎺 Chant pas de gymnastique")
-    st.markdown("*Chant militaire* ")
+    st.markdown("*S2 EMB Pas de gymnastique* ")
 
     col1, col2 = st.columns([3, 1])
     with col1:
@@ -586,7 +586,7 @@ if st.session_state.get("show_chant_pas_gym", False):
             st.session_state.show_chant_pas_gym = False
             st.rerun()
     with col2:
-        st.markdown("[🎵 Écouter sur YouTube](https://www.youtube.com/results?search_query=chant+militaire+reservistes)")
+        st.markdown("[)")
 
     st.divider()
 
