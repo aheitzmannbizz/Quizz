@@ -494,9 +494,9 @@ if st.session_state.get("show_commandos", False):
  **En 1948, trente commandos du 11e Choc sont sélectionnés pour participer à des manœuvres dans le Tyrol, 
  alors zone d’occupation française. 
  Les paroles sont alors écrites par le sergent Vincent Mayoli du 11e Choc et la musique est composée par son cousin, 
- le maréchal des logis Paul Pergola du 35e RAP.
+ le maréchal des logis Paul Pergola du 35e RAP.**
 
-Le chant est publié à la fin des années cinquante dans le Carnet de chants des Cadets de France et
+**Le chant est publié à la fin des années cinquante dans le Carnet de chants des Cadets de France et
  enregistré par les parachutistes du 3e RPIMa (Les casquettes sont là, Philips, Médiuem B 76.480 R, 1958).
 Il est largement repris dans toute l’armée.**
 
