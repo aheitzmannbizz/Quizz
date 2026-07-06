@@ -500,6 +500,8 @@ if st.session_state.get("show_commandos", False):
  enregistré par les parachutistes du 3e RPIMa (Les casquettes sont là, Philips, Médiuem B 76.480 R, 1958).
 Il est largement repris dans toute l’armée.**
 
+**Chant :**
+
 1. Les commandos partent pour l'aventure
 Soleil couchant les salue, 2.1.2
 Chez l'ennemi, la nuit sera très dure 
