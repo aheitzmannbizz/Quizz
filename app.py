@@ -406,7 +406,7 @@ with st.sidebar:
         disabled=only_grade_questions,
     )
     only_nato_questions = st.checkbox(
-        "Uniquement questions OTAN",
+        "Uniquement questions alphabet OTAN",
         value=False,
         disabled=only_grade_questions or only_famas_questions,
     )
