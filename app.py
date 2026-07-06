@@ -586,7 +586,7 @@ if st.session_state.get("show_chant_pas_gym", False):
             st.session_state.show_chant_pas_gym = False
             st.rerun()
     with col2:
-        st.markdown("[)")
+        st.markdown("")
 
     st.divider()
 
