@@ -592,6 +592,7 @@ if st.session_state.get("show_chant_pas_gym", False):
 
     chant_pas_gym_text = """
 1-2-3-4
+
 Réservistes, fiers de servir,
 
 Le cœur vaillant, prêts à bondir,
