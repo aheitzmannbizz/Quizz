@@ -327,7 +327,10 @@ def load_question_image(question: dict) -> Image.Image | None:
 def render_question_image(question: dict) -> None:
     image = load_question_image(question)
     if image is not None:
-        st.image(image, caption="Insigne a identifier", use_container_width=True)
+        try:
+            st.image(image, caption="Insigne a identifier", use_container_width=True)
+        except Exception:
+            st.warning("Impossible d'afficher l'image pour cette question.")
         return
 
     image_path = question.get("image")
@@ -335,12 +338,18 @@ def render_question_image(question: dict) -> None:
         return
 
     if str(image_path).startswith("http://") or str(image_path).startswith("https://"):
-        st.image(str(image_path), caption="Insigne a identifier", use_container_width=True)
+        try:
+            st.image(str(image_path), caption="Insigne a identifier", use_container_width=True)
+        except Exception:
+            st.warning("Image distante indisponible pour cette question.")
         return
 
     image_file = Path(str(image_path))
     if image_file.exists():
-        st.image(str(image_file), caption="Insigne a identifier", use_container_width=True)
+        try:
+            st.image(str(image_file), caption="Insigne a identifier", use_container_width=True)
+        except Exception:
+            st.warning("Impossible d'afficher l'image locale pour cette question.")
 
 
 def prepare_quiz(
