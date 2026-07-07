@@ -391,11 +391,23 @@ def prepare_quiz(
     prepared = []
     for raw in chosen:
         q = copy.deepcopy(raw)
-        options = list(q["options"])
-        answer_text = options[q["answer"]]
+        options_raw = q.get("options")
+        answer_idx = q.get("answer")
+        if not isinstance(options_raw, list) or len(options_raw) < 2:
+            continue
+        if not isinstance(answer_idx, int) or answer_idx < 0 or answer_idx >= len(options_raw):
+            continue
+
+        options = list(options_raw)
+        answer_text = options[answer_idx]
         rng.shuffle(options)
         q["options"] = options
         q["answer"] = options.index(answer_text)
+        q.setdefault("chapter", "Inconnu")
+        q.setdefault("difficulty", "inconnu")
+        q.setdefault("question", "Question indisponible")
+        q.setdefault("explanation", "Aucune explication disponible.")
+        q.setdefault("id", f"fallback_{len(prepared)}")
         prepared.append(q)
 
     return prepared
@@ -762,8 +774,8 @@ st.progress((idx + 1) / len(quiz), text=f"Question {idx + 1}/{len(quiz)}")
 st.markdown(
     f"""
     <section class="question-box">
-        <div class="question-meta">Chapitre: {q['chapter']} | Niveau: {q['difficulty']}</div>
-        <p class="question-text">{q['question']}</p>
+        <div class="question-meta">Chapitre: {q.get('chapter', 'Inconnu')} | Niveau: {q.get('difficulty', 'inconnu')}</div>
+        <p class="question-text">{q.get('question', 'Question indisponible')}</p>
     </section>
     """,
     unsafe_allow_html=True,
@@ -775,7 +787,7 @@ st.session_state.chosen_option = st.radio(
     "Choisissez votre reponse:",
     list(range(len(q["options"]))),
     format_func=lambda i: q["options"][i],
-    key=f"choice_{q['id']}_{idx}",
+    key=f"choice_{q.get('id', f'idx_{idx}')}_{idx}",
 )
 
 if st.button("Valider", use_container_width=True, disabled=st.session_state.locked):
@@ -785,11 +797,11 @@ if st.button("Valider", use_container_width=True, disabled=st.session_state.lock
     st.session_state.locked = True
     st.session_state.history.append(
         {
-            "question": q["question"],
+            "question": q.get("question", "Question indisponible"),
             "correct": correct,
             "user_answer": q["options"][st.session_state.chosen_option],
             "good_answer": q["options"][q["answer"]],
-            "explanation": q["explanation"],
+            "explanation": q.get("explanation", "Aucune explication disponible."),
         }
     )
 

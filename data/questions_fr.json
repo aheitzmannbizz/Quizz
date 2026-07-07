@@ -2435,7 +2435,7 @@
     "chapter": "Grades",
     "difficulty": "difficile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/Mar%C3%A9chal%20de%20France.jpg?h=d1cb525d&itok=afwqag5F",
+    "image": "assets/grades/gq001.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2452,7 +2452,7 @@
     "chapter": "Grades",
     "difficulty": "difficile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/G%C3%A9n%C3%A9ral%20d%27arm%C3%A9e.jpg?h=d1cb525d&itok=ImTHEWji",
+    "image": "assets/grades/gq002.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2469,7 +2469,7 @@
     "chapter": "Grades",
     "difficulty": "difficile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/G%C3%A9n%C3%A9ral%20de%20corps%20d%27arm%C3%A9e.jpg?h=d1cb525d&itok=X2iQG4AZ",
+    "image": "assets/grades/gq003.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2486,7 +2486,7 @@
     "chapter": "Grades",
     "difficulty": "difficile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/G%C3%A9n%C3%A9ral%20de%20division.jpg?h=d1cb525d&itok=4QXa9WI5",
+    "image": "assets/grades/gq004.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2503,7 +2503,7 @@
     "chapter": "Grades",
     "difficulty": "difficile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/G%C3%A9n%C3%A9ral%20de%20brigade.jpg?h=d1cb525d&itok=ebBUi19D",
+    "image": "assets/grades/gq005.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2520,7 +2520,7 @@
     "chapter": "Grades",
     "difficulty": "difficile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/colonel.jpg?h=d1cb525d&itok=9Iw6ROHc",
+    "image": "assets/grades/gq006.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2537,7 +2537,7 @@
     "chapter": "Grades",
     "difficulty": "difficile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/lieutenant-colonel.jpg?h=d1cb525d&itok=dUp8vDTb",
+    "image": "assets/grades/gq007.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2554,7 +2554,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/commandant.jpg?h=d1cb525d&itok=dJ2Xwcjh",
+    "image": "assets/grades/gq008.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2571,7 +2571,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/capitaine.jpg?itok=wgxq7Dwa",
+    "image": "assets/grades/gq009.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2588,7 +2588,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/lieutenant.jpg?itok=kyqfMV7s",
+    "image": "assets/grades/gq010.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2605,7 +2605,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Sous-lieutenant.jpg?itok=NFaCFU6t",
+    "image": "assets/grades/gq011.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2622,7 +2622,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Aspirant.jpg?itok=nQqzeUuu",
+    "image": "assets/grades/gq012.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2639,7 +2639,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Major.jpg?itok=ahsAa3_i",
+    "image": "assets/grades/gq013.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2656,7 +2656,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Adjudant-chef.jpg?itok=91LUUGOZ",
+    "image": "assets/grades/gq014.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2673,7 +2673,7 @@
     "chapter": "Grades",
     "difficulty": "moyen",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Adjudant.jpg?itok=qocj2Dty",
+    "image": "assets/grades/gq015.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2690,7 +2690,7 @@
     "chapter": "Grades",
     "difficulty": "facile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Sergent-chef.jpg?itok=-mm8a2ZL",
+    "image": "assets/grades/gq016.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2707,7 +2707,7 @@
     "chapter": "Grades",
     "difficulty": "facile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Sergent.jpg?itok=A8P8VyY8",
+    "image": "assets/grades/gq017.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2724,7 +2724,7 @@
     "chapter": "Grades",
     "difficulty": "facile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Caporal-chef%20de%201re%20classe.jpg?itok=kZu2ymFI",
+    "image": "assets/grades/gq018.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2741,7 +2741,7 @@
     "chapter": "Grades",
     "difficulty": "facile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/Grade%20de%20caporal-chef.png?h=d1cb525d&itok=lDWxDLSJ",
+    "image": "assets/grades/gq019.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2758,7 +2758,7 @@
     "chapter": "Grades",
     "difficulty": "facile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/caporal%20brigadier.png?h=d1cb525d&itok=kVomuiaP",
+    "image": "assets/grades/gq020.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2775,7 +2775,7 @@
     "chapter": "Grades",
     "difficulty": "facile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/Soldat%20de%201re%20classe.png?h=d1cb525d&itok=k2eCFDhg",
+    "image": "assets/grades/gq021.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
@@ -2792,7 +2792,7 @@
     "chapter": "Grades",
     "difficulty": "facile",
     "question": "Quel est ce grade ?",
-    "image": "https://www.defense.gouv.fr/sites/default/files/styles/16_9_md/public/terre/Soldat.jpg?itok=Mi6UmJhv",
+    "image": "assets/grades/gq022.jpg",
     "source": "https://www.defense.gouv.fr/terre/grades-larmee-terre",
     "is_grade": true,
     "options": [
