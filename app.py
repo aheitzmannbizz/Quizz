@@ -11,6 +11,12 @@ from PIL import Image
 
 
 QUESTIONS_PATH = Path("data/questions_fr.json")
+PANEL_STATE_KEYS = (
+    "show_commandos",
+    "show_ceux_liban",
+    "show_chant_pas_gym",
+    "show_grades_section",
+)
 
 
 def is_grade_question(q: dict) -> bool:
@@ -422,6 +428,25 @@ def reset_state() -> None:
     st.session_state.history = []
 
 
+def close_all_panels() -> None:
+    for key in PANEL_STATE_KEYS:
+        st.session_state[key] = False
+
+
+def toggle_panel(panel_key: str) -> None:
+    is_open = st.session_state.get(panel_key, False)
+    close_all_panels()
+    if not is_open:
+        st.session_state[panel_key] = True
+
+
+def panel_button(label: str, panel_key: str) -> bool:
+    is_active = st.session_state.get(panel_key, False)
+    button_label = f"● {label}" if is_active else label
+    button_type = "primary" if is_active else "secondary"
+    return st.button(button_label, use_container_width=True, type=button_type)
+
+
 def start_quiz(
     bank: list[dict],
     chapters: list[str],
@@ -433,6 +458,7 @@ def start_quiz(
 ) -> None:
     quiz = prepare_quiz(bank, chapters, levels, amount, only_grades=only_grades, only_famas=only_famas, only_nato=only_nato)
     reset_state()
+    close_all_panels()
     st.session_state.quiz = quiz
     st.session_state.collapse_sidebar_once = True
 
@@ -548,20 +574,20 @@ with st.sidebar:
         )
         st.rerun()
 
-    if st.button(" 🎺 Les commandos", use_container_width=True):
-        st.session_state.show_commandos = not st.session_state.get("show_commandos", False)
+    if panel_button("🎺 Les commandos", "show_commandos"):
+        toggle_panel("show_commandos")
         st.rerun()
     
-    if st.button("🎺 Ceux du Liban", use_container_width=True):
-        st.session_state.show_ceux_liban = not st.session_state.get("show_ceux_liban", False)
+    if panel_button("🎺 Ceux du Liban", "show_ceux_liban"):
+        toggle_panel("show_ceux_liban")
         st.rerun()
 
-    if st.button("🎺 Chant pas de gymnastique", use_container_width=True):
-        st.session_state.show_chant_pas_gym = not st.session_state.get("show_chant_pas_gym", False)
+    if panel_button("🎺 Chant pas de gymnastique", "show_chant_pas_gym"):
+        toggle_panel("show_chant_pas_gym")
         st.rerun()
 
-    if st.button("⭐ Appellations des grades", use_container_width=True):
-        st.session_state.show_grades_section = not st.session_state.get("show_grades_section", False)
+    if panel_button("⭐ Appellations des grades", "show_grades_section"):
+        toggle_panel("show_grades_section")
         st.rerun()
     
 close_sidebar_once_if_needed()
