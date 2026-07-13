@@ -56,20 +56,6 @@
     "explanation": "L'etat-major soutient le commandement dans la planification et la coordination."
   },
   {
-    "id": "q008",
-    "chapter": "Rappels de base",
-    "difficulty": "facile",
-    "question": "Dans les rappels de base, quelle notion est presentee avec un tableau de grades ?",
-    "options": [
-      "Grades et appellations",
-      "Vitesses de progression",
-      "Secours d'urgence",
-      "Azimuts magnetiques"
-    ],
-    "answer": 0,
-    "explanation": "Le chapitre II contient un tableau des grades et des appellations."
-  },
-  {
     "id": "q009",
     "chapter": "Rappels de base",
     "difficulty": "moyen",
