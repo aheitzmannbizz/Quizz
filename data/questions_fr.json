@@ -1141,22 +1141,7 @@
     "answer": 1,
     "explanation": "Le jargon cite pour cet ensemble de pieces est 'tete de Mickey'."
   },
-  {
-    "id": "q098",
-    "chapter": "ISTC - Tir",
-    "difficulty": "facile",
-    "question": "FAMAS : quel element est clairement visible de part et d'autre sous l'arme ?",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FAMAS-img_1016.jpg",
-    "source": "https://fr.wikipedia.org/wiki/FAMAS",
-    "options": [
-      "Deux branches de bipied",
-      "Un lance-grenades M203",
-      "Une crosse retractable",
-      "Un silencieux"
-    ],
-    "answer": 0,
-    "explanation": "Sur cette photo FAMAS, on distingue les deux branches de bipied deployeees."
-  },
+
   {
     "id": "q099",
     "chapter": "ISTC - Tir",
@@ -1960,38 +1945,6 @@
   {
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 1 ?",
-    "image": "assets/famas/poignee_garde_main_cropped.jpg",
-    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
-    "options": [
-      "Branche de bipied",
-      "Tampon de caoutchouc",
-      "Axe de fixation de bretelle",
-      "Alidade de tir vertical"
-    ],
-    "answer": 0,
-    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 1 correspond a branche de bipied.",
-    "id": "q149"
-  },
-  {
-    "chapter": "ISTC - Tir",
-    "difficulty": "facile",
-    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 2 ?",
-    "image": "assets/famas/poignee_garde_main_cropped.jpg",
-    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
-    "options": [
-      "Tampon de caoutchouc",
-      "Branche de bipied",
-      "Axe de fixation de bretelle",
-      "Alidade de tir vertical"
-    ],
-    "answer": 0,
-    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 2 correspond a tampon de caoutchouc.",
-    "id": "q150"
-  },
-  {
-    "chapter": "ISTC - Tir",
-    "difficulty": "facile",
     "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 3 ?",
     "image": "assets/famas/poignee_garde_main_cropped.jpg",
     "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
@@ -2004,54 +1957,6 @@
     "answer": 0,
     "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 3 correspond a axe de fixation de bretelle.",
     "id": "q151"
-  },
-  {
-    "chapter": "ISTC - Tir",
-    "difficulty": "facile",
-    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 4 ?",
-    "image": "assets/famas/poignee_garde_main_cropped.jpg",
-    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
-    "options": [
-      "Alidade de tir vertical",
-      "Branche de bipied",
-      "Tampon de caoutchouc",
-      "Axe de fixation de bretelle"
-    ],
-    "answer": 0,
-    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 4 correspond a alidade de tir vertical.",
-    "id": "q152"
-  },
-  {
-    "chapter": "ISTC - Tir",
-    "difficulty": "facile",
-    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 5 ?",
-    "image": "assets/famas/poignee_garde_main_cropped.jpg",
-    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
-    "options": [
-      "Etrier de poignee garde-main",
-      "Branche de bipied",
-      "Tampon de caoutchouc",
-      "Axe de fixation de bretelle"
-    ],
-    "answer": 0,
-    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 5 correspond a etrier de poignee garde-main.",
-    "id": "q153"
-  },
-  {
-    "chapter": "ISTC - Tir",
-    "difficulty": "facile",
-    "question": "FAMAS (sous-ensemble: la poignee garde-main): quelle piece correspond au numero 6 ?",
-    "image": "assets/famas/poignee_garde_main_cropped.jpg",
-    "source": "Schema sous-ensemble: la poignee garde-main (AV.FA.1C) fourni par l'utilisateur",
-    "options": [
-      "Logement de la goupille d'assemblage",
-      "Branche de bipied",
-      "Tampon de caoutchouc",
-      "Axe de fixation de bretelle"
-    ],
-    "answer": 0,
-    "explanation": "Sur le schema du sous-ensemble la poignee garde-main, le numero 6 correspond a logement de la goupille d'assemblage.",
-    "id": "q154"
   },
   {
     "chapter": "ISTC - Tir",
