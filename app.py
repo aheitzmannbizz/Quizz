@@ -560,7 +560,7 @@ with st.sidebar:
         st.session_state.show_chant_pas_gym = not st.session_state.get("show_chant_pas_gym", False)
         st.rerun()
 
-    if st.button("⭐ Grades", use_container_width=True):
+    if st.button("⭐ Appellations des grades", use_container_width=True):
         st.session_state.show_grades_section = not st.session_state.get("show_grades_section", False)
         st.rerun()
     
