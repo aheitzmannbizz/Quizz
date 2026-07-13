@@ -757,10 +757,42 @@ if st.session_state.get("show_grades_section", False):
     st.divider()
 
     grades_placeholder_text = """
-Contenu de demonstration pour la section Grades.
+S'adresser correctement a un membre de l'Armee de terre repond a des codes tres precis. Tout repose sur une regle d'or : **le « Mon » militaire signifie « Monsieur »** (une contraction historique de *« Monsieur le... »*). Il ne s'agit pas d'un pronom possessif.
 
-- Les insignes et appellations seront ajoutes ici.
-- Le contenu definitif remplacera ce bloc plus tard.
+C'est cette subtilite qui dicte la difference majeure entre la facon d'adresser un homme et une femme.
+
+## 1. La regle d'or (Homme vs Femme)
+
+- **Pour un Homme :** On fait preceder le grade de **« Mon »** a partir du grade d'adjudant (Exemple : *« Mon capitaine »*).
+- **Pour une Femme :** On l'appelle **directement par son grade**, sans jamais mettre « Mon » ni « Madame » devant (Exemple : *« Capitaine »*).
+
+> **Pourquoi ?** Dire *« Mon lieutenant »* a une femme reviendrait textuellement a l'appeler *« Monsieur le lieutenant »*. A l'inverse, l'usage du *« Ma »* (*« Ma capitaine »*) est proscrit dans le reglement officiel de l'Armee de terre francaise.
+
+## 2. Tableau recapitulatif des appellations (a l'oral)
+
+Voici comment s'adresser aux militaires de l'Armee de terre selon leur categorie et leur genre :
+
+| Categorie | Grade | Pour un Homme | Pour une Femme |
+| --- | --- | --- | --- |
+| **Officiers Generaux** | General (de brigade, division, etc.) | *« Mon general »* | *« General »* |
+| **Officiers Superieurs** | Colonel / Lieutenant-colonel | *« Mon colonel »* | *« Colonel »* |
+| **Officiers Superieurs** | Commandant *(ou Chef de bataillon / d'escadrons)* | *« Mon commandant »* | *« Commandant »* |
+| **Officiers Subalternes** | Capitaine | *« Mon capitaine »* | *« Capitaine »* |
+| **Officiers Subalternes** | Lieutenant / Sous-lieutenant / Aspirant | *« Mon lieutenant »* | *« Lieutenant »* |
+| **Sous-officiers Superieurs** | Major | *« Major »* *(pas de "Mon")* | *« Major »* |
+| **Sous-officiers Superieurs** | Adjudant-chef | *« Mon adjudant-chef »* | *« Adjudant-chef »* |
+| **Sous-officiers Superieurs** | Adjudant | *« Mon adjudant »* | *« Adjudant »* |
+| **Sous-officiers Subalternes** | Sergent-chef | *« Chef »* | *« Chef »* |
+| **Sous-officiers Subalternes** | Sergent | *« Sergent »* | *« Sergent »* |
+| **Militaires du Rang** | Caporal-chef / Caporal | *« Caporal-chef »* / *« Caporal »* | *« Caporal-chef »* / *« Caporal »* |
+| **Militaires du Rang** | Soldat | Par son nom ou *« Monsieur »* | Par son nom ou *« Madame »* |
+
+## 3. Les exceptions et cas particuliers a connaitre
+
+- **Le grade de Major :** Historiquement, le major est le plus haut grade des sous-officiers. On dit simplement **« Major »**, que ce soit un homme ou une femme (jamais de « Mon »).
+- **Le Sergent-chef :** Dans la pratique quotidienne, un sergent-chef (homme ou femme) s'appelle tout simplement **« Chef »**.
+- **La Cavalerie (l'Arme blindee cavalerie) :** C'est une exception traditionnelle tres forte. Dans la cavalerie, on n'appelle pas les adjudants et adjudants-chefs « Mon adjudant », mais **« Mon lieutenant »** (ou *« Lieutenant »* pour une femme).
+- **Si vous etes civil :** Un civil n'est pas soumis au Code de discipline militaire. Si vous ecrivez une lettre ou que vous parlez a un militaire, vous pouvez utiliser les formules civiles officielles : *« Monsieur le Capitaine »* ou *« Madame la Colonelle »* (les formes feminisees comme *Colonelle* ou *Generale* sont acceptees dans l'administration civile, bien que le milieu purement militaire prefere le grade brut *« Colonel »* ou *« General »*).
 """
 
     st.markdown(grades_placeholder_text)
