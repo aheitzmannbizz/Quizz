@@ -56,20 +56,6 @@
     "explanation": "L'etat-major soutient le commandement dans la planification et la coordination."
   },
   {
-    "id": "q007",
-    "chapter": "Organisation",
-    "difficulty": "facile",
-    "question": "Le sommaire annonce combien de grands chapitres numerotes ?",
-    "options": [
-      "5",
-      "7",
-      "9",
-      "12"
-    ],
-    "answer": 2,
-    "explanation": "Le sommaire visible va de I a IX, soit 9 chapitres."
-  },
-  {
     "id": "q008",
     "chapter": "Rappels de base",
     "difficulty": "facile",
