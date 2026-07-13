@@ -764,21 +764,6 @@
     "explanation": "Le FAMAS est generalement decrit avec un systeme a retard par levier."
   },
   {
-    "id": "q059",
-    "chapter": "ISTC - Tir",
-    "difficulty": "facile",
-    "question": "Le FAMAS est associe a quelle armee nationale en priorite historique ?",
-    "source": "https://fr.wikipedia.org/wiki/FAMAS",
-    "options": [
-      "Armee britannique",
-      "Armee de terre francaise",
-      "US Army",
-      "Bundeswehr"
-    ],
-    "answer": 1,
-    "explanation": "Le FAMAS est emblématique de l'armee francaise."
-  },
-  {
     "id": "q060",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
