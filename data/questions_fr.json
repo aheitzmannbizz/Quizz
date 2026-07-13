@@ -1184,21 +1184,6 @@
     "explanation": "Dans la documentation FAMAS, le guide technique est MAT. 1057."
   },
   {
-    "id": "q087",
-    "chapter": "ISTC - Tir",
-    "difficulty": "difficile",
-    "question": "FAMAS: quel numero correspond a la notice technique ?",
-    "source": "Photo livret FAMAS fournie par l'utilisateur",
-    "options": [
-      "MAT. 1234",
-      "MAT. 1123",
-      "MAT. 1057",
-      "MAT. 1178"
-    ],
-    "answer": 1,
-    "explanation": "La notice technique FAMAS est referencee MAT. 1123."
-  },
-  {
     "id": "q097",
     "chapter": "ISTC - Tir",
     "difficulty": "difficile",
