@@ -787,6 +787,25 @@ Voici comment s'adresser aux militaires de l'Armee de terre selon leur categorie
 | **Militaires du Rang** | Caporal-chef / Caporal | *« Caporal-chef »* / *« Caporal »* | *« Caporal-chef »* / *« Caporal »* |
 | **Militaires du Rang** | Soldat | Par son nom ou *« Monsieur »* | Par son nom ou *« Madame »* |
 
+Caporal et Brigadier sont des grades équivalents.
+
+Caporal est utilisé dans l'infanterie, le génie, les transmissions, etc.
+Brigadier est utilisé notamment dans la cavalerie, l'artillerie et le train.
+
+Sergent et Maréchal des logis sont également des grades équivalents.
+
+Sergent est utilisé dans la plupart des armes.
+Maréchal des logis est utilisé dans la cavalerie, l'artillerie et le train.
+Équivalences
+Grade courant	Appellation dans certaines armesCaporal	Brigadier
+Caporal-chef	Brigadier-chef
+Sergent	Maréchal des logis
+Sergent-chef	Maréchal des logis-chef
+
+Ainsi, un brigadier n'est pas supérieur à un caporal : 
+c'est le même niveau hiérarchique. De même, un maréchal des logis a le même 
+rang qu'un sergent.
+
 ## 3. Les exceptions et cas particuliers a connaitre
 
 - **Le grade de Major :** Historiquement, le major est le plus haut grade des sous-officiers. On dit simplement **« Major »**, que ce soit un homme ou une femme (jamais de « Mon »).
