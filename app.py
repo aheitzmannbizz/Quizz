@@ -561,7 +561,7 @@ with st.sidebar:
         st.rerun()
 
     if st.button("⭐ Appellations des grades", use_container_width=True):
-        st.session_state.show_grades_section = not st.session_state.get("show_grades_section", False)
+        st.session_state.show_Appellations des grades_section = not st.session_state.get("show_grades_section", False)
         st.rerun()
     
 close_sidebar_once_if_needed()
