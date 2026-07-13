@@ -559,6 +559,10 @@ with st.sidebar:
     if st.button("🎺 Chant pas de gymnastique", use_container_width=True):
         st.session_state.show_chant_pas_gym = not st.session_state.get("show_chant_pas_gym", False)
         st.rerun()
+
+    if st.button("⭐ Grades", use_container_width=True):
+        st.session_state.show_grades_section = not st.session_state.get("show_grades_section", False)
+        st.rerun()
     
 close_sidebar_once_if_needed()
 
@@ -735,6 +739,31 @@ Jusqu'au bout, jusqu'au réveil.
 """
 
     st.markdown(chant_pas_gym_text)
+    st.stop()
+
+# Display Grades section if requested
+if st.session_state.get("show_grades_section", False):
+    st.markdown("# ⭐ Grades")
+    st.markdown("*Contenu provisoire* ")
+
+    col1, col2 = st.columns([3, 1])
+    with col1:
+        if st.button("Fermer", key="close_grades_section"):
+            st.session_state.show_grades_section = False
+            st.rerun()
+    with col2:
+        st.markdown("")
+
+    st.divider()
+
+    grades_placeholder_text = """
+Contenu de demonstration pour la section Grades.
+
+- Les insignes et appellations seront ajoutes ici.
+- Le contenu definitif remplacera ce bloc plus tard.
+"""
+
+    st.markdown(grades_placeholder_text)
     st.stop()
 
 if not st.session_state.quiz:
