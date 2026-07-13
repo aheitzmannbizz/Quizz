@@ -1236,7 +1236,7 @@
     "id": "q101",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 1 ?",
+    "question": "FAMAS : quelle piece correspond au numero 1 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1252,7 +1252,7 @@
     "id": "q102",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 2 ?",
+    "question": "FAMAS : quelle piece correspond au numero 2 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1268,7 +1268,7 @@
     "id": "q103",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 3 ?",
+    "question": "FAMAS : quelle piece correspond au numero 3 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1284,7 +1284,7 @@
     "id": "q104",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 4 ?",
+    "question": "FAMAS : quelle piece correspond au numero 4 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1300,7 +1300,7 @@
     "id": "q105",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 5 ?",
+    "question": "FAMAS : quelle piece correspond au numero 5 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1316,7 +1316,7 @@
     "id": "q106",
     "chapter": "ISTC - Tir",
     "difficulty": "difficile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 6 ?",
+    "question": "FAMAS : quelle piece correspond au numero 6 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1332,7 +1332,7 @@
     "id": "q107",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 7 ?",
+    "question": "FAMAS : quelle piece correspond au numero 7 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1348,7 +1348,7 @@
     "id": "q108",
     "chapter": "ISTC - Tir",
     "difficulty": "difficile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 8 ?",
+    "question": "FAMAS : quelle piece correspond au numero 8 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1364,7 +1364,7 @@
     "id": "q109",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 9 ?",
+    "question": "FAMAS : quelle piece correspond au numero 9 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1380,7 +1380,7 @@
     "id": "q110",
     "chapter": "ISTC - Tir",
     "difficulty": "difficile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 10 ?",
+    "question": "FAMAS : quelle piece correspond au numero 10 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1396,7 +1396,7 @@
     "id": "q111",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 11 ?",
+    "question": "FAMAS : quelle piece correspond au numero 11 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1412,7 +1412,7 @@
     "id": "q112",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 12 ?",
+    "question": "FAMAS : quelle piece correspond au numero 12 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1428,7 +1428,7 @@
     "id": "q113",
     "chapter": "ISTC - Tir",
     "difficulty": "difficile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 13 ?",
+    "question": "FAMAS : quelle piece correspond au numero 13 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1444,7 +1444,7 @@
     "id": "q114",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 14 ?",
+    "question": "FAMAS : quelle piece correspond au numero 14 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1460,7 +1460,7 @@
     "id": "q115",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 15 ?",
+    "question": "FAMAS : quelle piece correspond au numero 15 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1476,7 +1476,7 @@
     "id": "q116",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 16 ?",
+    "question": "FAMAS : quelle piece correspond au numero 16 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1492,7 +1492,7 @@
     "id": "q117",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 17 ?",
+    "question": "FAMAS : quelle piece correspond au numero 17 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1508,7 +1508,7 @@
     "id": "q118",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 18 ?",
+    "question": "FAMAS : quelle piece correspond au numero 18 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1524,7 +1524,7 @@
     "id": "q119",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 19 ?",
+    "question": "FAMAS : quelle piece correspond au numero 19 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1540,7 +1540,7 @@
     "id": "q120",
     "chapter": "ISTC - Tir",
     "difficulty": "moyen",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 20 ?",
+    "question": "FAMAS : quelle piece correspond au numero 20 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
@@ -1556,7 +1556,7 @@
     "id": "q121",
     "chapter": "ISTC - Tir",
     "difficulty": "facile",
-    "question": "FAMAS (parties visibles): quelle piece correspond au numero 21 ?",
+    "question": "FAMAS : quelle piece correspond au numero 21 ?",
     "image": "assets/famas/parties_visibles_cropped_v3.jpg",
     "source": "Schema des parties visibles du FA MAS 5,56 - F1 fourni par l'utilisateur",
     "options": [
