@@ -1169,21 +1169,6 @@
     "explanation": "La neutralisation FAMAS mentionne la piece de securite: boitier de mecanisme."
   },
   {
-    "id": "q086",
-    "chapter": "ISTC - Tir",
-    "difficulty": "difficile",
-    "question": "FAMAS: quel document MAT est reference comme guide technique ?",
-    "source": "Photo livret FAMAS fournie par l'utilisateur",
-    "options": [
-      "MAT. 1057",
-      "MAT. 1178",
-      "MAT. 1234",
-      "MAT. 1123"
-    ],
-    "answer": 0,
-    "explanation": "Dans la documentation FAMAS, le guide technique est MAT. 1057."
-  },
-  {
     "id": "q097",
     "chapter": "ISTC - Tir",
     "difficulty": "difficile",
