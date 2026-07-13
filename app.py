@@ -744,7 +744,7 @@ Jusqu'au bout, jusqu'au réveil.
 # Display Grades section if requested
 if st.session_state.get("show_grades_section", False):
     st.markdown("# ⭐ Grades")
-    st.markdown("*Contenu provisoire* ")
+    st.markdown("")
 
     col1, col2 = st.columns([3, 1])
     with col1:
