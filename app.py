@@ -797,10 +797,6 @@ Sergent et Maréchal des logis sont également des grades équivalents.
 Sergent est utilisé dans la plupart des armes.
 Maréchal des logis est utilisé dans la cavalerie, l'artillerie et le train.
 Équivalences
-Grade courant	Appellation dans certaines armesCaporal	Brigadier
-Caporal-chef	Brigadier-chef
-Sergent	Maréchal des logis
-Sergent-chef	Maréchal des logis-chef
 
 Ainsi, un brigadier n'est pas supérieur à un caporal : 
 c'est le même niveau hiérarchique. De même, un maréchal des logis a le même 
